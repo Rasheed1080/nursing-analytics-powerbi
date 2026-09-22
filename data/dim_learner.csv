@@ -1,0 +1,1401 @@
+learner_key,first_name,last_name,program_key,start_term_key,campus,enrollment_intensity,learner_status,is_veteran
+10001,Quinn,Davis,3,1,Provo,Full-Time,Graduated,No
+10002,Jordan,Smith,5,2,Salt Lake City,Full-Time,Graduated,No
+10003,Aisha,Rossi,3,9,St. George,Part-Time,Active,No
+10004,Riley,Rossi,3,1,Online,Part-Time,Graduated,No
+10005,Linda,Brown,1,6,Ogden,Part-Time,Active,No
+10006,Sofia,Gonzalez,5,8,Salt Lake City,Part-Time,Active,No
+10007,Priya,Williams,3,6,Salt Lake City,Full-Time,Graduated,No
+10008,Linda,Rodriguez,6,4,Online,Part-Time,Withdrawn,No
+10009,Diego,Okafor,2,5,Salt Lake City,Full-Time,Graduated,No
+10010,Sofia,Okafor,1,8,St. George,Full-Time,Active,No
+10011,Jordan,Ivanov,5,1,Ogden,Part-Time,Active,No
+10012,Michael,Gonzalez,1,6,Online,Full-Time,Active,No
+10013,Kenji,Kim,1,9,Online,Part-Time,Active,No
+10014,Taylor,Haddad,6,3,Salt Lake City,Full-Time,Active,No
+10015,Linda,Gonzalez,1,7,St. George,Part-Time,Graduated,No
+10016,Morgan,Silva,6,1,St. George,Part-Time,Graduated,No
+10017,Patricia,Smith,1,5,Ogden,Full-Time,Active,No
+10018,Jennifer,Chen,1,5,Provo,Full-Time,Withdrawn,No
+10019,William,Hernandez,1,9,Online,Full-Time,Withdrawn,No
+10020,Quinn,Diallo,5,5,St. George,Full-Time,Active,No
+10021,Casey,Silva,5,9,Online,Full-Time,Graduated,No
+10022,Sofia,Patel,5,7,Provo,Part-Time,Leave of Absence,No
+10023,Jennifer,Anderson,3,6,Salt Lake City,Full-Time,Active,No
+10024,Quinn,Smith,1,9,Salt Lake City,Full-Time,Active,No
+10025,Quinn,Rodriguez,5,6,Online,Full-Time,Active,No
+10026,Michael,Ivanov,4,8,Online,Full-Time,Active,No
+10027,Kenji,Johnson,2,7,Salt Lake City,Full-Time,Active,No
+10028,Avery,Patel,1,2,Online,Full-Time,Active,No
+10029,Taylor,Anderson,1,4,St. George,Full-Time,Withdrawn,Yes
+10030,Michael,Thomas,6,4,Provo,Part-Time,Active,No
+10031,Rowan,Ferrara,1,1,Online,Part-Time,Leave of Absence,No
+10032,Michael,Jones,6,9,Provo,Part-Time,Graduated,No
+10033,Maria,Johnson,1,9,Salt Lake City,Part-Time,Active,No
+10034,Jennifer,Williams,5,3,Provo,Full-Time,Active,No
+10035,Yuki,Kim,3,4,Provo,Full-Time,Active,No
+10036,Rowan,Miller,2,9,Ogden,Full-Time,Active,No
+10037,Sofia,Haddad,1,5,Salt Lake City,Full-Time,Active,No
+10038,Avery,Nguyen,6,2,Ogden,Full-Time,Active,No
+10039,Riley,Anderson,5,4,St. George,Part-Time,Active,No
+10040,Nadia,Patel,6,9,Ogden,Full-Time,Active,No
+10041,Kenji,Patel,1,2,Provo,Part-Time,Withdrawn,No
+10042,Aisha,Choi,1,6,Ogden,Part-Time,Active,No
+10043,Robert,Berg,5,1,Ogden,Full-Time,Active,Yes
+10044,Patricia,Patel,3,5,Online,Full-Time,Active,Yes
+10045,Casey,Wilson,2,6,Provo,Full-Time,Graduated,No
+10046,Avery,Silva,5,1,Provo,Full-Time,Withdrawn,No
+10047,Kenji,Jones,3,7,Provo,Full-Time,Leave of Absence,No
+10048,Kenji,Ferrara,5,7,Ogden,Part-Time,Active,No
+10049,Luis,Rossi,5,4,Salt Lake City,Part-Time,Active,No
+10050,Sofia,Anderson,5,4,Ogden,Part-Time,Active,No
+10051,Avery,Gonzalez,5,4,Ogden,Part-Time,Active,No
+10052,Jennifer,Gonzalez,6,5,St. George,Part-Time,Active,No
+10053,Rowan,Johnson,1,5,Salt Lake City,Part-Time,Active,No
+10054,Jennifer,Brown,5,7,Online,Full-Time,Graduated,No
+10055,Luis,Patel,4,1,Provo,Part-Time,Active,No
+10056,Diego,Choi,6,6,Salt Lake City,Part-Time,Graduated,No
+10057,Sage,Patel,3,6,Provo,Full-Time,Active,No
+10058,Sage,Gonzalez,6,3,St. George,Full-Time,Graduated,No
+10059,Patricia,Silva,1,6,Provo,Part-Time,Active,No
+10060,Sage,Nguyen,6,3,St. George,Part-Time,Graduated,Yes
+10061,Casey,Smith,3,4,Salt Lake City,Full-Time,Graduated,No
+10062,Yuki,Okafor,3,2,St. George,Full-Time,Active,No
+10063,Aisha,Rossi,2,7,Salt Lake City,Full-Time,Active,No
+10064,David,Davis,1,9,Salt Lake City,Part-Time,Active,No
+10065,William,Hernandez,2,9,Online,Part-Time,Leave of Absence,No
+10066,Michael,Anderson,2,3,Ogden,Full-Time,Graduated,No
+10067,Quinn,Rodriguez,1,9,Online,Full-Time,Active,No
+10068,David,Williams,1,6,Provo,Full-Time,Active,No
+10069,Robert,Hernandez,3,4,St. George,Part-Time,Active,No
+10070,Fatima,Kim,1,7,Salt Lake City,Part-Time,Active,No
+10071,Omar,Diallo,6,5,Online,Full-Time,Graduated,No
+10072,Maria,Silva,1,8,Online,Full-Time,Active,No
+10073,Linda,Kim,5,9,St. George,Full-Time,Active,No
+10074,Rowan,Gonzalez,1,8,Ogden,Full-Time,Active,No
+10075,Nadia,Wilson,1,7,Ogden,Full-Time,Active,No
+10076,James,Davis,4,1,Salt Lake City,Full-Time,Leave of Absence,No
+10077,William,Jones,6,4,Provo,Full-Time,Withdrawn,No
+10078,Rowan,Haddad,1,4,Ogden,Full-Time,Active,No
+10079,Riley,Martinez,6,2,Salt Lake City,Full-Time,Graduated,No
+10080,Priya,Miller,3,7,Salt Lake City,Full-Time,Active,No
+10081,Elizabeth,Ivanov,5,2,Salt Lake City,Part-Time,Graduated,No
+10082,Maria,Smith,3,2,Online,Part-Time,Active,No
+10083,Robert,Garcia,3,8,St. George,Part-Time,Graduated,No
+10084,Nadia,Novak,5,8,St. George,Part-Time,Active,No
+10085,Patricia,Davis,1,2,Online,Part-Time,Active,No
+10086,Avery,Lopez,2,6,Ogden,Part-Time,Active,No
+10087,Jennifer,Miller,3,5,Salt Lake City,Full-Time,Graduated,No
+10088,Aisha,Rossi,2,4,Online,Part-Time,Graduated,No
+10089,Quinn,Martinez,1,4,St. George,Part-Time,Active,No
+10090,David,Hernandez,2,7,Ogden,Part-Time,Leave of Absence,No
+10091,Maria,Brown,1,2,St. George,Full-Time,Graduated,No
+10092,Fatima,Nguyen,4,5,St. George,Part-Time,Graduated,No
+10093,Riley,Martinez,5,5,Salt Lake City,Full-Time,Active,No
+10094,Casey,Okafor,6,9,Online,Full-Time,Active,No
+10095,Maria,Garcia,3,8,Salt Lake City,Part-Time,Active,No
+10096,Taylor,Kim,2,2,Salt Lake City,Full-Time,Active,No
+10097,Quinn,Brown,3,5,St. George,Part-Time,Active,No
+10098,Linda,Anderson,5,4,Online,Part-Time,Graduated,No
+10099,Jordan,Chen,6,5,Salt Lake City,Full-Time,Graduated,No
+10100,Riley,Patel,1,2,Salt Lake City,Full-Time,Active,No
+10101,Quinn,Martinez,3,8,Ogden,Part-Time,Active,Yes
+10102,David,Davis,5,4,Provo,Part-Time,Active,No
+10103,William,Novak,1,3,St. George,Part-Time,Graduated,No
+10104,Rowan,Nguyen,2,5,St. George,Part-Time,Graduated,No
+10105,William,Rodriguez,3,7,Salt Lake City,Full-Time,Graduated,No
+10106,Diego,Berg,3,1,Ogden,Full-Time,Leave of Absence,No
+10107,Sofia,Rodriguez,1,9,Provo,Part-Time,Graduated,No
+10108,Robert,Hernandez,2,2,Ogden,Full-Time,Active,No
+10109,Linda,Berg,1,8,St. George,Full-Time,Active,No
+10110,Fatima,Gonzalez,1,6,St. George,Full-Time,Active,No
+10111,Jennifer,Lopez,2,7,St. George,Part-Time,Active,No
+10112,Casey,Ferrara,4,4,Ogden,Part-Time,Active,No
+10113,William,Ivanov,2,1,Provo,Full-Time,Leave of Absence,No
+10114,Nadia,Ferrara,1,7,Salt Lake City,Part-Time,Active,No
+10115,Priya,Martinez,3,3,St. George,Part-Time,Active,No
+10116,David,Jones,2,8,Online,Full-Time,Active,No
+10117,Rowan,Haddad,2,3,Online,Part-Time,Withdrawn,No
+10118,Sage,Berg,2,1,St. George,Part-Time,Active,No
+10119,David,Haddad,2,8,St. George,Part-Time,Active,No
+10120,Quinn,Kim,1,4,Online,Full-Time,Leave of Absence,No
+10121,Priya,Ferrara,2,6,Online,Part-Time,Graduated,No
+10122,Jordan,Jones,5,3,St. George,Part-Time,Active,No
+10123,Sofia,Anderson,5,8,Salt Lake City,Full-Time,Active,No
+10124,Luis,Rodriguez,3,3,Ogden,Part-Time,Active,No
+10125,Maria,Okafor,5,9,Online,Full-Time,Active,No
+10126,Kenji,Williams,1,5,Online,Full-Time,Leave of Absence,No
+10127,Priya,Martinez,4,2,Salt Lake City,Full-Time,Active,No
+10128,Casey,Davis,1,6,St. George,Part-Time,Active,No
+10129,William,Choi,5,3,Online,Full-Time,Active,No
+10130,Rowan,Anderson,3,4,Ogden,Full-Time,Active,No
+10131,Riley,Williams,2,5,Online,Part-Time,Graduated,No
+10132,Patricia,Choi,1,7,Ogden,Full-Time,Graduated,No
+10133,Elizabeth,Lopez,5,2,St. George,Part-Time,Active,No
+10134,Elizabeth,Choi,1,7,Salt Lake City,Part-Time,Active,No
+10135,James,Davis,5,4,Provo,Part-Time,Graduated,No
+10136,Yuki,Okafor,4,3,Salt Lake City,Part-Time,Graduated,No
+10137,Taylor,Ferrara,1,6,Ogden,Part-Time,Graduated,No
+10138,Yuki,Lopez,1,3,St. George,Part-Time,Graduated,No
+10139,Sage,Novak,1,8,Ogden,Full-Time,Leave of Absence,No
+10140,Kenji,Silva,1,4,Online,Part-Time,Withdrawn,No
+10141,James,Silva,1,9,Ogden,Part-Time,Active,No
+10142,Michael,Smith,6,2,St. George,Part-Time,Graduated,No
+10143,Patricia,Ferrara,1,2,Ogden,Part-Time,Graduated,Yes
+10144,Morgan,Brown,6,5,Provo,Full-Time,Leave of Absence,No
+10145,Kenji,Novak,2,9,Provo,Part-Time,Active,No
+10146,Rowan,Johnson,5,7,Ogden,Full-Time,Withdrawn,No
+10147,Diego,Lopez,6,6,St. George,Part-Time,Active,No
+10148,Nadia,Anderson,1,2,Salt Lake City,Full-Time,Withdrawn,No
+10149,Maria,Davis,3,1,Provo,Full-Time,Active,Yes
+10150,Casey,Ivanov,3,4,St. George,Full-Time,Active,No
+10151,Luis,Garcia,6,3,Salt Lake City,Full-Time,Active,No
+10152,Alex,Garcia,2,4,Ogden,Full-Time,Graduated,No
+10153,Michael,Anderson,2,2,Ogden,Full-Time,Graduated,No
+10154,Sofia,Choi,1,1,St. George,Part-Time,Graduated,No
+10155,Omar,Gonzalez,6,1,Online,Full-Time,Leave of Absence,No
+10156,Maria,Chen,5,2,Provo,Full-Time,Withdrawn,No
+10157,Linda,Chen,3,9,St. George,Part-Time,Graduated,No
+10158,Morgan,Choi,3,2,St. George,Full-Time,Graduated,No
+10159,Patricia,Gonzalez,5,7,Online,Full-Time,Active,No
+10160,Casey,Silva,1,5,Online,Full-Time,Active,Yes
+10161,James,Ivanov,1,2,Provo,Full-Time,Graduated,No
+10162,Robert,Lopez,3,6,Online,Full-Time,Graduated,No
+10163,Jennifer,Miller,3,6,Provo,Part-Time,Active,No
+10164,Fatima,Rodriguez,1,9,St. George,Full-Time,Active,No
+10165,Sofia,Silva,5,9,Ogden,Full-Time,Active,No
+10166,James,Smith,4,5,Provo,Full-Time,Withdrawn,No
+10167,Alex,Williams,2,3,St. George,Full-Time,Graduated,No
+10168,Kenji,Hernandez,2,3,St. George,Full-Time,Active,No
+10169,Rowan,Anderson,1,1,Online,Part-Time,Graduated,No
+10170,Morgan,Lopez,2,4,Online,Full-Time,Graduated,No
+10171,Sage,Johnson,3,8,Provo,Part-Time,Active,No
+10172,Avery,Haddad,1,4,Provo,Part-Time,Active,No
+10173,Riley,Jones,1,8,Online,Full-Time,Graduated,No
+10174,Omar,Novak,5,6,Salt Lake City,Part-Time,Active,Yes
+10175,Priya,Okafor,5,7,Online,Part-Time,Graduated,Yes
+10176,William,Anderson,6,3,Ogden,Full-Time,Graduated,No
+10177,Jennifer,Williams,1,7,Online,Part-Time,Graduated,No
+10178,Aisha,Brown,1,3,St. George,Full-Time,Active,No
+10179,Casey,Rodriguez,1,3,Provo,Full-Time,Active,No
+10180,Fatima,Okafor,4,2,Online,Part-Time,Active,No
+10181,Yuki,Kim,4,8,St. George,Part-Time,Graduated,No
+10182,Michael,Anderson,3,3,Ogden,Part-Time,Active,No
+10183,Patricia,Johnson,2,2,Salt Lake City,Part-Time,Active,No
+10184,Jennifer,Gonzalez,1,2,Online,Full-Time,Graduated,No
+10185,Michael,Nguyen,5,4,Provo,Full-Time,Active,No
+10186,Taylor,Nguyen,5,6,Provo,Full-Time,Leave of Absence,No
+10187,William,Garcia,2,8,Ogden,Part-Time,Active,No
+10188,Jordan,Ivanov,2,6,Ogden,Full-Time,Graduated,No
+10189,Kenji,Choi,3,7,St. George,Full-Time,Active,No
+10190,Sage,Okafor,3,3,Online,Full-Time,Withdrawn,No
+10191,Aisha,Ivanov,6,5,Ogden,Full-Time,Graduated,No
+10192,Diego,Wilson,5,9,St. George,Part-Time,Active,No
+10193,Fatima,Thomas,1,4,Provo,Full-Time,Active,No
+10194,Morgan,Nguyen,1,5,St. George,Full-Time,Withdrawn,No
+10195,Casey,Garcia,5,3,Provo,Full-Time,Graduated,No
+10196,Quinn,Anderson,1,6,St. George,Part-Time,Graduated,No
+10197,Sage,Ivanov,5,4,Online,Full-Time,Active,No
+10198,Sage,Haddad,6,8,Online,Part-Time,Active,No
+10199,Jordan,Okafor,5,3,Online,Part-Time,Withdrawn,No
+10200,Sage,Williams,1,9,Provo,Part-Time,Withdrawn,No
+10201,Sofia,Davis,2,7,Online,Part-Time,Active,No
+10202,Quinn,Gonzalez,2,7,Salt Lake City,Part-Time,Active,No
+10203,Aisha,Hernandez,1,2,Provo,Full-Time,Withdrawn,No
+10204,Michael,Anderson,3,3,St. George,Full-Time,Graduated,No
+10205,David,Novak,1,4,St. George,Part-Time,Withdrawn,No
+10206,Robert,Okafor,1,2,St. George,Part-Time,Active,No
+10207,Elizabeth,Davis,3,1,Provo,Part-Time,Graduated,No
+10208,Riley,Silva,3,4,Salt Lake City,Part-Time,Graduated,Yes
+10209,Linda,Lopez,2,8,Ogden,Full-Time,Active,No
+10210,Aisha,Brown,1,4,St. George,Part-Time,Graduated,No
+10211,Riley,Berg,2,6,Online,Part-Time,Graduated,No
+10212,Patricia,Johnson,5,2,Ogden,Full-Time,Graduated,Yes
+10213,Jennifer,Gonzalez,5,6,St. George,Part-Time,Withdrawn,No
+10214,Omar,Haddad,4,4,Salt Lake City,Part-Time,Active,No
+10215,Kenji,Anderson,5,7,Online,Part-Time,Withdrawn,No
+10216,Luis,Nguyen,2,8,Ogden,Full-Time,Active,No
+10217,Maria,Brown,1,3,Salt Lake City,Part-Time,Active,No
+10218,Patricia,Lopez,1,7,Online,Full-Time,Active,No
+10219,Luis,Johnson,5,7,Salt Lake City,Part-Time,Active,No
+10220,Casey,Choi,5,3,St. George,Part-Time,Withdrawn,Yes
+10221,Elizabeth,Johnson,1,6,St. George,Full-Time,Active,No
+10222,Taylor,Kim,6,6,Provo,Part-Time,Active,No
+10223,Alex,Novak,3,4,Provo,Part-Time,Leave of Absence,No
+10224,Rowan,Rossi,5,2,Online,Full-Time,Active,No
+10225,Casey,Choi,1,8,Salt Lake City,Part-Time,Active,No
+10226,Omar,Hernandez,4,2,Ogden,Full-Time,Graduated,No
+10227,Priya,Rossi,1,5,Provo,Part-Time,Withdrawn,No
+10228,Quinn,Ivanov,1,4,Online,Full-Time,Graduated,No
+10229,David,Jones,3,8,St. George,Full-Time,Graduated,No
+10230,Fatima,Wilson,6,8,St. George,Full-Time,Active,No
+10231,Diego,Nguyen,1,2,Ogden,Full-Time,Active,No
+10232,Casey,Wilson,5,3,St. George,Full-Time,Graduated,No
+10233,Maria,Ferrara,2,5,Provo,Part-Time,Active,No
+10234,Rowan,Miller,2,5,St. George,Part-Time,Withdrawn,No
+10235,Aisha,Garcia,1,9,St. George,Full-Time,Active,No
+10236,Elizabeth,Johnson,3,6,Salt Lake City,Full-Time,Withdrawn,No
+10237,Alex,Thomas,3,7,St. George,Part-Time,Graduated,No
+10238,Diego,Gonzalez,1,4,Ogden,Part-Time,Graduated,Yes
+10239,Avery,Hernandez,1,7,St. George,Full-Time,Active,No
+10240,Casey,Haddad,4,6,Ogden,Full-Time,Leave of Absence,No
+10241,Casey,Brown,2,5,Salt Lake City,Part-Time,Active,No
+10242,Omar,Diallo,5,7,Provo,Part-Time,Active,No
+10243,Michael,Nguyen,4,4,Online,Part-Time,Graduated,No
+10244,Jennifer,Anderson,2,2,Provo,Full-Time,Withdrawn,No
+10245,Yuki,Berg,1,5,Online,Part-Time,Active,No
+10246,Rowan,Novak,5,7,Ogden,Part-Time,Active,No
+10247,David,Martinez,2,9,Salt Lake City,Part-Time,Active,No
+10248,William,Silva,4,5,St. George,Full-Time,Graduated,No
+10249,Maria,Patel,1,6,Ogden,Full-Time,Graduated,No
+10250,Jordan,Jones,2,9,Ogden,Part-Time,Active,No
+10251,Sofia,Chen,1,9,Ogden,Full-Time,Active,No
+10252,Jennifer,Berg,3,5,St. George,Part-Time,Graduated,No
+10253,Diego,Brown,1,1,Online,Part-Time,Active,No
+10254,Rowan,Okafor,4,1,St. George,Full-Time,Graduated,No
+10255,Kenji,Chen,3,3,Online,Full-Time,Active,No
+10256,Patricia,Hernandez,1,2,Online,Full-Time,Active,No
+10257,Sofia,Thomas,1,9,Salt Lake City,Full-Time,Graduated,No
+10258,Maria,Garcia,3,8,Online,Part-Time,Active,No
+10259,Avery,Davis,3,5,Ogden,Part-Time,Graduated,No
+10260,Priya,Miller,6,5,Online,Part-Time,Graduated,No
+10261,Elizabeth,Silva,3,5,St. George,Part-Time,Active,No
+10262,Luis,Jones,2,6,Ogden,Full-Time,Withdrawn,No
+10263,Aisha,Rodriguez,4,6,Online,Full-Time,Withdrawn,No
+10264,Casey,Brown,2,9,St. George,Full-Time,Graduated,No
+10265,Quinn,Johnson,3,9,Salt Lake City,Part-Time,Active,No
+10266,David,Ferrara,2,3,Provo,Part-Time,Active,No
+10267,Avery,Haddad,5,8,Ogden,Part-Time,Active,No
+10268,Quinn,Patel,1,2,Salt Lake City,Full-Time,Graduated,No
+10269,Linda,Ivanov,5,1,Online,Full-Time,Leave of Absence,No
+10270,Alex,Martinez,6,5,St. George,Full-Time,Withdrawn,No
+10271,David,Nguyen,1,8,Online,Full-Time,Leave of Absence,No
+10272,Maria,Garcia,2,4,Online,Part-Time,Graduated,No
+10273,Elizabeth,Silva,1,6,Provo,Full-Time,Graduated,No
+10274,Jennifer,Hernandez,3,7,Salt Lake City,Part-Time,Graduated,No
+10275,Sofia,Davis,1,3,Salt Lake City,Part-Time,Active,No
+10276,Sage,Kim,2,5,St. George,Full-Time,Withdrawn,No
+10277,Morgan,Anderson,2,4,Ogden,Full-Time,Active,No
+10278,Aisha,Ferrara,2,5,Ogden,Part-Time,Graduated,No
+10279,Patricia,Novak,1,3,St. George,Part-Time,Active,No
+10280,Luis,Silva,2,8,Provo,Full-Time,Graduated,No
+10281,Jennifer,Rossi,3,2,Ogden,Full-Time,Active,No
+10282,Avery,Kim,1,9,St. George,Full-Time,Withdrawn,No
+10283,Avery,Rossi,5,8,St. George,Part-Time,Active,No
+10284,Robert,Anderson,5,8,St. George,Full-Time,Active,No
+10285,Linda,Rodriguez,3,5,Salt Lake City,Full-Time,Graduated,No
+10286,David,Johnson,1,6,Salt Lake City,Part-Time,Graduated,No
+10287,Kenji,Okafor,1,3,Online,Part-Time,Graduated,No
+10288,Diego,Silva,2,7,St. George,Full-Time,Active,No
+10289,Linda,Nguyen,1,3,Provo,Full-Time,Leave of Absence,No
+10290,Kenji,Patel,4,5,Online,Part-Time,Active,No
+10291,Avery,Ferrara,1,6,Salt Lake City,Full-Time,Active,No
+10292,Taylor,Brown,2,1,St. George,Full-Time,Active,No
+10293,Jordan,Gonzalez,3,1,Online,Full-Time,Active,No
+10294,Sage,Davis,4,1,St. George,Part-Time,Active,No
+10295,Yuki,Jones,4,6,St. George,Full-Time,Active,No
+10296,Yuki,Novak,1,9,Provo,Part-Time,Withdrawn,No
+10297,Diego,Gonzalez,1,6,St. George,Part-Time,Withdrawn,No
+10298,Fatima,Patel,2,5,Online,Full-Time,Active,No
+10299,Sofia,Johnson,1,3,St. George,Part-Time,Graduated,No
+10300,Rowan,Miller,3,3,Ogden,Full-Time,Active,No
+10301,Nadia,Miller,5,2,Salt Lake City,Part-Time,Active,No
+10302,Avery,Ivanov,3,1,St. George,Full-Time,Withdrawn,No
+10303,Sofia,Smith,5,6,Provo,Full-Time,Active,No
+10304,Priya,Chen,1,8,Provo,Part-Time,Withdrawn,No
+10305,David,Okafor,3,5,Ogden,Part-Time,Active,No
+10306,Luis,Novak,2,8,Online,Part-Time,Active,No
+10307,Omar,Davis,2,7,Provo,Full-Time,Active,No
+10308,Avery,Hernandez,6,7,Provo,Part-Time,Active,No
+10309,Diego,Hernandez,1,9,Ogden,Part-Time,Graduated,No
+10310,Kenji,Ivanov,3,8,Ogden,Full-Time,Active,No
+10311,David,Okafor,2,3,Salt Lake City,Full-Time,Withdrawn,No
+10312,Robert,Jones,1,1,Provo,Full-Time,Graduated,No
+10313,Jordan,Chen,1,9,St. George,Part-Time,Active,No
+10314,Alex,Smith,1,9,St. George,Part-Time,Graduated,No
+10315,Diego,Wilson,1,9,Provo,Full-Time,Graduated,No
+10316,Jennifer,Rodriguez,2,4,Ogden,Part-Time,Active,No
+10317,Quinn,Rossi,1,7,Provo,Part-Time,Active,No
+10318,Linda,Gonzalez,5,1,St. George,Part-Time,Active,Yes
+10319,Robert,Okafor,4,2,Ogden,Full-Time,Active,No
+10320,Omar,Rossi,5,4,St. George,Part-Time,Active,No
+10321,Elizabeth,Silva,5,5,Salt Lake City,Full-Time,Withdrawn,No
+10322,Fatima,Berg,1,4,Online,Full-Time,Graduated,No
+10323,David,Hernandez,3,7,Online,Full-Time,Graduated,No
+10324,James,Johnson,3,2,Salt Lake City,Part-Time,Active,No
+10325,Maria,Smith,1,7,Ogden,Part-Time,Leave of Absence,No
+10326,Diego,Kim,2,7,Online,Full-Time,Active,No
+10327,Taylor,Rodriguez,1,4,Provo,Part-Time,Graduated,No
+10328,Morgan,Williams,3,7,Salt Lake City,Part-Time,Active,No
+10329,Riley,Wilson,4,2,Online,Part-Time,Active,Yes
+10330,Luis,Hernandez,2,2,Online,Full-Time,Graduated,No
+10331,David,Diallo,2,2,Provo,Full-Time,Graduated,No
+10332,Michael,Jones,1,5,Salt Lake City,Full-Time,Active,No
+10333,James,Rodriguez,2,8,Provo,Part-Time,Graduated,No
+10334,Alex,Gonzalez,1,2,Ogden,Part-Time,Active,No
+10335,Nadia,Choi,1,6,St. George,Full-Time,Active,No
+10336,Riley,Gonzalez,3,4,Ogden,Part-Time,Active,No
+10337,Rowan,Berg,3,4,Online,Part-Time,Active,Yes
+10338,Fatima,Patel,3,9,Salt Lake City,Part-Time,Active,No
+10339,Taylor,Berg,1,5,Online,Part-Time,Withdrawn,No
+10340,Priya,Wilson,1,5,Online,Full-Time,Graduated,No
+10341,Sofia,Ferrara,3,7,Online,Full-Time,Active,No
+10342,Sofia,Williams,2,9,Salt Lake City,Full-Time,Graduated,No
+10343,Aisha,Silva,2,1,Online,Part-Time,Graduated,No
+10344,Quinn,Nguyen,2,1,St. George,Full-Time,Active,No
+10345,Alex,Thomas,2,9,Salt Lake City,Part-Time,Active,No
+10346,Kenji,Jones,6,2,Ogden,Part-Time,Withdrawn,No
+10347,Michael,Brown,5,9,Online,Part-Time,Active,No
+10348,Maria,Okafor,1,2,Salt Lake City,Full-Time,Active,No
+10349,Riley,Hernandez,4,9,St. George,Part-Time,Active,No
+10350,Riley,Okafor,1,7,Online,Part-Time,Graduated,Yes
+10351,Priya,Miller,2,7,Provo,Part-Time,Active,No
+10352,Luis,Choi,5,2,St. George,Full-Time,Graduated,No
+10353,Omar,Thomas,1,2,St. George,Part-Time,Active,No
+10354,Omar,Anderson,3,2,St. George,Full-Time,Active,No
+10355,Elizabeth,Williams,4,5,Provo,Part-Time,Withdrawn,No
+10356,Jennifer,Gonzalez,1,6,Online,Full-Time,Graduated,No
+10357,Priya,Ferrara,2,8,Provo,Full-Time,Graduated,No
+10358,William,Johnson,1,6,Ogden,Full-Time,Withdrawn,No
+10359,Jennifer,Okafor,1,7,Online,Part-Time,Leave of Absence,No
+10360,Taylor,Kim,2,8,Salt Lake City,Full-Time,Active,No
+10361,Fatima,Anderson,1,9,St. George,Part-Time,Active,No
+10362,David,Berg,1,2,Ogden,Full-Time,Active,No
+10363,Morgan,Novak,2,4,Provo,Part-Time,Leave of Absence,No
+10364,Nadia,Williams,1,5,Online,Full-Time,Active,No
+10365,William,Okafor,1,6,Online,Full-Time,Withdrawn,No
+10366,Elizabeth,Lopez,5,4,St. George,Part-Time,Graduated,No
+10367,Rowan,Choi,1,5,St. George,Full-Time,Active,No
+10368,Rowan,Choi,4,7,Provo,Full-Time,Withdrawn,No
+10369,Diego,Gonzalez,4,4,Online,Full-Time,Graduated,No
+10370,Taylor,Okafor,1,7,Salt Lake City,Part-Time,Active,No
+10371,Michael,Hernandez,1,6,St. George,Full-Time,Active,No
+10372,Patricia,Okafor,5,2,Ogden,Full-Time,Graduated,No
+10373,Michael,Rodriguez,2,7,Ogden,Part-Time,Graduated,No
+10374,Yuki,Silva,3,8,Salt Lake City,Full-Time,Graduated,No
+10375,Alex,Wilson,1,3,Provo,Full-Time,Active,No
+10376,James,Rodriguez,1,5,Salt Lake City,Part-Time,Active,No
+10377,Sage,Novak,3,1,Provo,Part-Time,Active,No
+10378,Taylor,Jones,4,1,St. George,Full-Time,Active,No
+10379,Nadia,Brown,2,1,Online,Full-Time,Graduated,No
+10380,Morgan,Brown,1,2,Ogden,Part-Time,Graduated,No
+10381,Diego,Jones,1,3,Salt Lake City,Full-Time,Graduated,No
+10382,Aisha,Novak,1,6,Provo,Part-Time,Graduated,No
+10383,Morgan,Jones,2,4,Salt Lake City,Part-Time,Active,No
+10384,Aisha,Williams,2,3,Provo,Part-Time,Active,No
+10385,William,Nguyen,3,5,Provo,Part-Time,Active,No
+10386,Morgan,Davis,1,4,Online,Full-Time,Active,No
+10387,Casey,Gonzalez,6,6,St. George,Part-Time,Withdrawn,No
+10388,Fatima,Williams,3,8,Salt Lake City,Full-Time,Withdrawn,Yes
+10389,Linda,Nguyen,1,1,Ogden,Part-Time,Withdrawn,No
+10390,Casey,Rodriguez,2,9,Salt Lake City,Part-Time,Active,Yes
+10391,Linda,Kim,6,3,Salt Lake City,Part-Time,Active,No
+10392,Taylor,Ferrara,4,4,Online,Full-Time,Active,No
+10393,Diego,Novak,3,5,Provo,Full-Time,Graduated,Yes
+10394,James,Nguyen,4,3,St. George,Part-Time,Active,No
+10395,Morgan,Haddad,1,5,Salt Lake City,Part-Time,Graduated,No
+10396,Elizabeth,Okafor,1,2,Salt Lake City,Part-Time,Active,No
+10397,Riley,Lopez,2,8,Provo,Part-Time,Withdrawn,No
+10398,Jennifer,Smith,5,2,Salt Lake City,Full-Time,Active,No
+10399,Riley,Ferrara,2,7,Salt Lake City,Part-Time,Withdrawn,No
+10400,Taylor,Kim,1,6,Ogden,Full-Time,Active,No
+10401,Jennifer,Johnson,5,3,Online,Full-Time,Active,No
+10402,David,Anderson,5,5,Salt Lake City,Part-Time,Active,No
+10403,Quinn,Anderson,3,5,Ogden,Part-Time,Graduated,No
+10404,Quinn,Jones,4,9,Salt Lake City,Part-Time,Graduated,No
+10405,Alex,Haddad,3,1,Online,Part-Time,Withdrawn,Yes
+10406,Casey,Rossi,2,1,Ogden,Full-Time,Leave of Absence,Yes
+10407,Yuki,Lopez,5,9,Online,Full-Time,Active,No
+10408,Elizabeth,Johnson,2,7,Online,Full-Time,Active,No
+10409,Linda,Rossi,1,6,Ogden,Part-Time,Withdrawn,No
+10410,Fatima,Kim,1,4,Salt Lake City,Full-Time,Active,No
+10411,James,Haddad,2,7,Provo,Part-Time,Active,No
+10412,Luis,Silva,1,2,Ogden,Full-Time,Active,No
+10413,Quinn,Lopez,5,3,Online,Full-Time,Active,No
+10414,Linda,Choi,1,3,Online,Full-Time,Active,Yes
+10415,Jordan,Berg,5,3,Provo,Full-Time,Active,No
+10416,Rowan,Ferrara,2,2,Salt Lake City,Full-Time,Graduated,No
+10417,Taylor,Diallo,1,8,Ogden,Full-Time,Graduated,No
+10418,Linda,Thomas,1,7,Salt Lake City,Part-Time,Graduated,No
+10419,Rowan,Rodriguez,1,4,Online,Full-Time,Withdrawn,Yes
+10420,David,Thomas,3,8,Salt Lake City,Full-Time,Active,No
+10421,Luis,Nguyen,1,4,Provo,Full-Time,Graduated,No
+10422,Luis,Thomas,5,6,Ogden,Part-Time,Active,No
+10423,Alex,Diallo,1,6,Ogden,Full-Time,Graduated,No
+10424,Quinn,Garcia,2,6,Salt Lake City,Full-Time,Graduated,No
+10425,Quinn,Kim,1,1,Online,Part-Time,Graduated,No
+10426,Elizabeth,Hernandez,6,3,Ogden,Full-Time,Active,No
+10427,Avery,Berg,2,3,Online,Part-Time,Graduated,No
+10428,Quinn,Smith,1,1,St. George,Part-Time,Active,Yes
+10429,Sofia,Ivanov,5,6,Ogden,Full-Time,Graduated,Yes
+10430,Taylor,Lopez,4,9,Online,Full-Time,Withdrawn,No
+10431,Robert,Ivanov,1,3,Online,Part-Time,Graduated,No
+10432,Elizabeth,Berg,6,6,Provo,Part-Time,Active,No
+10433,Alex,Rossi,3,3,St. George,Part-Time,Active,No
+10434,Maria,Ferrara,4,1,St. George,Full-Time,Active,No
+10435,Kenji,Williams,1,8,Provo,Part-Time,Active,No
+10436,Diego,Okafor,1,2,Ogden,Part-Time,Graduated,Yes
+10437,Luis,Brown,1,2,Salt Lake City,Full-Time,Active,No
+10438,Michael,Diallo,4,3,Online,Part-Time,Withdrawn,No
+10439,Elizabeth,Okafor,1,8,Provo,Full-Time,Graduated,No
+10440,Maria,Rodriguez,5,1,Salt Lake City,Full-Time,Active,No
+10441,David,Diallo,5,3,Salt Lake City,Part-Time,Graduated,No
+10442,Robert,Okafor,3,8,Provo,Part-Time,Graduated,No
+10443,Robert,Rossi,1,4,St. George,Part-Time,Leave of Absence,No
+10444,Elizabeth,Patel,1,2,Online,Full-Time,Active,Yes
+10445,Aisha,Chen,2,5,Online,Full-Time,Graduated,Yes
+10446,Michael,Choi,1,5,Salt Lake City,Part-Time,Leave of Absence,No
+10447,David,Gonzalez,2,5,Provo,Part-Time,Active,No
+10448,Patricia,Anderson,2,8,Ogden,Full-Time,Active,No
+10449,Diego,Brown,3,3,Salt Lake City,Part-Time,Graduated,No
+10450,Nadia,Gonzalez,2,4,St. George,Part-Time,Graduated,No
+10451,Quinn,Thomas,3,8,Ogden,Full-Time,Graduated,No
+10452,Yuki,Nguyen,5,1,St. George,Full-Time,Active,No
+10453,Riley,Miller,4,3,Provo,Full-Time,Withdrawn,Yes
+10454,Nadia,Okafor,6,7,Provo,Part-Time,Active,No
+10455,David,Gonzalez,4,2,St. George,Part-Time,Active,No
+10456,William,Kim,2,1,St. George,Part-Time,Graduated,Yes
+10457,Elizabeth,Haddad,1,2,Salt Lake City,Part-Time,Withdrawn,No
+10458,Aisha,Thomas,5,7,St. George,Part-Time,Active,No
+10459,Yuki,Diallo,2,7,Ogden,Full-Time,Active,No
+10460,Nadia,Ivanov,5,6,Ogden,Part-Time,Active,No
+10461,Quinn,Jones,2,2,Ogden,Part-Time,Leave of Absence,No
+10462,Taylor,Miller,1,7,Online,Full-Time,Graduated,No
+10463,Omar,Lopez,2,8,Salt Lake City,Full-Time,Graduated,No
+10464,Alex,Garcia,1,9,Provo,Full-Time,Withdrawn,No
+10465,James,Rossi,1,8,Provo,Part-Time,Active,No
+10466,Morgan,Silva,2,7,Salt Lake City,Full-Time,Graduated,No
+10467,Michael,Kim,3,3,St. George,Part-Time,Leave of Absence,No
+10468,Priya,Williams,5,5,Ogden,Full-Time,Graduated,No
+10469,Aisha,Davis,1,4,Provo,Part-Time,Withdrawn,No
+10470,Casey,Okafor,2,1,Provo,Full-Time,Active,No
+10471,Priya,Okafor,3,5,Ogden,Part-Time,Graduated,No
+10472,Patricia,Martinez,5,8,St. George,Part-Time,Active,No
+10473,William,Chen,1,6,Ogden,Part-Time,Graduated,No
+10474,Aisha,Hernandez,2,6,Ogden,Part-Time,Leave of Absence,No
+10475,Jennifer,Haddad,6,5,Provo,Full-Time,Active,No
+10476,Diego,Jones,5,7,Salt Lake City,Part-Time,Graduated,No
+10477,Kenji,Johnson,1,7,St. George,Full-Time,Active,No
+10478,Michael,Ferrara,4,9,Ogden,Part-Time,Graduated,No
+10479,Morgan,Thomas,5,9,Provo,Part-Time,Active,No
+10480,Yuki,Hernandez,3,3,Salt Lake City,Full-Time,Withdrawn,No
+10481,Yuki,Hernandez,4,5,Ogden,Part-Time,Active,No
+10482,Omar,Okafor,2,2,St. George,Full-Time,Active,No
+10483,Linda,Nguyen,1,2,Ogden,Part-Time,Withdrawn,Yes
+10484,Elizabeth,Diallo,1,4,Online,Full-Time,Active,No
+10485,Aisha,Garcia,4,2,Ogden,Full-Time,Active,No
+10486,Riley,Thomas,1,3,Salt Lake City,Full-Time,Graduated,No
+10487,Michael,Gonzalez,3,7,Salt Lake City,Full-Time,Active,No
+10488,Fatima,Berg,4,1,St. George,Full-Time,Withdrawn,Yes
+10489,Yuki,Lopez,3,4,Ogden,Full-Time,Active,No
+10490,Sage,Anderson,1,1,St. George,Part-Time,Active,No
+10491,Yuki,Thomas,3,3,Ogden,Full-Time,Active,No
+10492,Quinn,Novak,5,7,Provo,Full-Time,Active,No
+10493,Priya,Okafor,3,3,Salt Lake City,Part-Time,Active,No
+10494,William,Johnson,1,9,Salt Lake City,Full-Time,Graduated,Yes
+10495,Rowan,Thomas,2,7,Provo,Full-Time,Active,No
+10496,Morgan,Silva,3,5,St. George,Part-Time,Active,No
+10497,Morgan,Nguyen,4,7,St. George,Full-Time,Withdrawn,No
+10498,Avery,Haddad,5,8,Ogden,Full-Time,Active,No
+10499,Michael,Ferrara,2,3,Provo,Part-Time,Active,No
+10500,Nadia,Kim,1,2,Online,Full-Time,Withdrawn,No
+10501,Morgan,Diallo,4,2,Ogden,Full-Time,Graduated,No
+10502,Morgan,Berg,6,5,Provo,Full-Time,Active,No
+10503,Morgan,Brown,2,6,Salt Lake City,Full-Time,Active,No
+10504,Yuki,Anderson,3,3,St. George,Part-Time,Active,No
+10505,Linda,Gonzalez,1,6,Online,Part-Time,Active,No
+10506,Aisha,Diallo,3,8,Provo,Full-Time,Graduated,No
+10507,Sofia,Kim,4,3,Online,Part-Time,Active,No
+10508,Omar,Silva,2,6,Provo,Part-Time,Graduated,No
+10509,Taylor,Rodriguez,1,7,Ogden,Full-Time,Active,No
+10510,Diego,Choi,3,4,Ogden,Full-Time,Leave of Absence,No
+10511,Diego,Okafor,4,8,Online,Full-Time,Active,No
+10512,Sofia,Garcia,3,1,St. George,Part-Time,Active,No
+10513,Maria,Davis,5,2,Ogden,Part-Time,Graduated,Yes
+10514,Quinn,Williams,3,7,Online,Part-Time,Active,No
+10515,Morgan,Thomas,2,8,Salt Lake City,Full-Time,Active,No
+10516,Taylor,Ivanov,1,9,St. George,Part-Time,Active,No
+10517,James,Berg,3,8,Salt Lake City,Full-Time,Withdrawn,No
+10518,James,Rossi,1,8,Online,Full-Time,Graduated,Yes
+10519,Luis,Martinez,1,6,St. George,Part-Time,Graduated,No
+10520,Nadia,Rossi,1,3,Online,Full-Time,Active,No
+10521,Linda,Miller,1,2,Online,Full-Time,Withdrawn,No
+10522,Aisha,Berg,1,7,St. George,Full-Time,Active,No
+10523,Michael,Smith,2,9,St. George,Full-Time,Active,No
+10524,Fatima,Ferrara,2,8,Provo,Full-Time,Withdrawn,No
+10525,William,Diallo,1,7,Ogden,Part-Time,Graduated,No
+10526,Maria,Martinez,3,4,Online,Full-Time,Active,No
+10527,Priya,Patel,3,9,Ogden,Full-Time,Active,No
+10528,Sofia,Silva,3,5,Provo,Full-Time,Graduated,No
+10529,Fatima,Lopez,3,6,St. George,Part-Time,Graduated,No
+10530,Yuki,Berg,6,7,St. George,Part-Time,Graduated,No
+10531,Alex,Gonzalez,2,1,Provo,Full-Time,Active,No
+10532,Diego,Rodriguez,1,3,Provo,Full-Time,Leave of Absence,No
+10533,Nadia,Anderson,1,9,Salt Lake City,Full-Time,Active,No
+10534,Luis,Ivanov,3,4,Ogden,Full-Time,Active,No
+10535,Jordan,Smith,2,6,Ogden,Full-Time,Leave of Absence,No
+10536,Sofia,Okafor,5,8,Ogden,Full-Time,Graduated,No
+10537,Diego,Williams,6,5,Provo,Full-Time,Active,No
+10538,David,Rodriguez,1,1,Provo,Full-Time,Active,No
+10539,Sofia,Jones,1,6,Salt Lake City,Full-Time,Active,No
+10540,Elizabeth,Patel,3,5,Ogden,Full-Time,Active,No
+10541,Jennifer,Williams,1,4,St. George,Full-Time,Withdrawn,No
+10542,Yuki,Miller,2,2,Ogden,Part-Time,Active,No
+10543,David,Berg,1,9,Salt Lake City,Full-Time,Active,No
+10544,Diego,Diallo,2,4,Ogden,Part-Time,Withdrawn,No
+10545,Kenji,Martinez,6,7,Salt Lake City,Part-Time,Active,No
+10546,Yuki,Okafor,2,8,Provo,Part-Time,Active,No
+10547,Fatima,Patel,6,3,St. George,Full-Time,Leave of Absence,No
+10548,Robert,Berg,1,4,Salt Lake City,Full-Time,Withdrawn,No
+10549,Taylor,Novak,4,7,Provo,Full-Time,Graduated,No
+10550,Riley,Ivanov,1,2,Ogden,Full-Time,Active,No
+10551,Patricia,Okafor,1,5,Online,Part-Time,Active,No
+10552,Aisha,Novak,2,2,St. George,Full-Time,Active,No
+10553,Jennifer,Brown,3,2,Ogden,Part-Time,Active,No
+10554,Nadia,Silva,1,8,Salt Lake City,Part-Time,Active,No
+10555,Omar,Patel,1,7,Ogden,Full-Time,Graduated,No
+10556,Alex,Patel,5,6,St. George,Full-Time,Withdrawn,No
+10557,Taylor,Martinez,1,7,Provo,Part-Time,Active,No
+10558,Riley,Davis,5,9,St. George,Part-Time,Active,No
+10559,Sofia,Patel,1,1,Online,Full-Time,Withdrawn,No
+10560,Elizabeth,Thomas,1,2,Ogden,Part-Time,Active,No
+10561,Taylor,Diallo,3,2,Provo,Part-Time,Active,No
+10562,Casey,Kim,1,5,St. George,Part-Time,Graduated,No
+10563,Quinn,Ivanov,6,3,Provo,Part-Time,Active,No
+10564,Patricia,Anderson,2,6,Ogden,Part-Time,Withdrawn,No
+10565,Omar,Berg,1,2,Provo,Full-Time,Withdrawn,No
+10566,Yuki,Smith,5,2,St. George,Full-Time,Graduated,No
+10567,David,Rodriguez,3,4,St. George,Part-Time,Withdrawn,No
+10568,Fatima,Kim,1,7,Ogden,Full-Time,Active,No
+10569,Alex,Silva,2,7,Provo,Full-Time,Active,No
+10570,Elizabeth,Silva,1,3,Provo,Part-Time,Active,No
+10571,Rowan,Lopez,1,8,Provo,Full-Time,Active,No
+10572,Sofia,Anderson,2,6,Salt Lake City,Full-Time,Active,No
+10573,Rowan,Berg,1,9,Ogden,Full-Time,Graduated,No
+10574,Linda,Ferrara,2,2,Provo,Part-Time,Active,No
+10575,Yuki,Chen,5,8,Salt Lake City,Full-Time,Graduated,No
+10576,Avery,Jones,1,9,Provo,Full-Time,Graduated,No
+10577,Robert,Ivanov,4,2,Ogden,Full-Time,Graduated,No
+10578,Aisha,Berg,2,4,Online,Full-Time,Graduated,No
+10579,Jennifer,Johnson,1,3,St. George,Full-Time,Active,No
+10580,William,Kim,5,9,Salt Lake City,Part-Time,Withdrawn,No
+10581,Riley,Davis,1,8,Online,Full-Time,Withdrawn,No
+10582,Jennifer,Rodriguez,5,3,Provo,Part-Time,Graduated,No
+10583,Linda,Jones,3,2,Salt Lake City,Full-Time,Active,No
+10584,Nadia,Jones,5,9,St. George,Full-Time,Graduated,No
+10585,David,Nguyen,5,1,Salt Lake City,Full-Time,Withdrawn,No
+10586,Yuki,Haddad,1,9,Online,Part-Time,Graduated,No
+10587,Luis,Thomas,1,9,Online,Part-Time,Active,No
+10588,Rowan,Thomas,4,2,Provo,Full-Time,Active,No
+10589,Alex,Rossi,5,7,Salt Lake City,Full-Time,Active,No
+10590,Maria,Wilson,2,4,Ogden,Full-Time,Graduated,No
+10591,David,Wilson,3,5,St. George,Part-Time,Active,No
+10592,Robert,Patel,6,7,St. George,Part-Time,Graduated,No
+10593,Sage,Kim,3,8,Ogden,Part-Time,Active,No
+10594,Patricia,Ivanov,5,2,Provo,Full-Time,Graduated,No
+10595,William,Rossi,2,6,Salt Lake City,Full-Time,Graduated,No
+10596,Michael,Ferrara,3,2,St. George,Part-Time,Graduated,No
+10597,Kenji,Gonzalez,1,2,Online,Part-Time,Graduated,No
+10598,Patricia,Smith,3,3,Provo,Part-Time,Graduated,No
+10599,Quinn,Chen,5,9,Provo,Full-Time,Active,No
+10600,Rowan,Haddad,3,3,Online,Part-Time,Active,No
+10601,Kenji,Rossi,2,4,Salt Lake City,Full-Time,Active,No
+10602,James,Lopez,4,9,Ogden,Full-Time,Withdrawn,No
+10603,Rowan,Garcia,1,7,Online,Full-Time,Graduated,No
+10604,Luis,Nguyen,2,6,Ogden,Part-Time,Withdrawn,No
+10605,Fatima,Hernandez,6,8,Online,Part-Time,Graduated,No
+10606,Taylor,Gonzalez,5,8,Provo,Full-Time,Active,No
+10607,Alex,Rossi,2,6,Ogden,Full-Time,Active,No
+10608,Sofia,Garcia,2,6,Online,Part-Time,Active,No
+10609,Kenji,Silva,5,5,Provo,Part-Time,Active,No
+10610,Avery,Davis,1,4,Provo,Full-Time,Withdrawn,No
+10611,Taylor,Silva,2,2,Online,Full-Time,Active,No
+10612,James,Chen,2,1,Ogden,Part-Time,Withdrawn,No
+10613,Fatima,Ferrara,5,5,St. George,Part-Time,Active,No
+10614,Luis,Wilson,4,3,Online,Full-Time,Active,No
+10615,Morgan,Rossi,2,3,St. George,Part-Time,Active,No
+10616,Morgan,Hernandez,1,4,Ogden,Part-Time,Active,No
+10617,William,Hernandez,1,5,Ogden,Full-Time,Active,No
+10618,Linda,Rodriguez,1,6,Online,Full-Time,Active,No
+10619,Kenji,Rodriguez,6,4,Provo,Part-Time,Graduated,No
+10620,Alex,Garcia,1,3,Online,Part-Time,Active,No
+10621,Maria,Ivanov,5,9,Online,Part-Time,Active,No
+10622,Priya,Garcia,5,1,Salt Lake City,Full-Time,Active,No
+10623,Maria,Rodriguez,2,2,Ogden,Part-Time,Active,No
+10624,Robert,Brown,6,5,Ogden,Full-Time,Active,No
+10625,Fatima,Martinez,3,9,Ogden,Part-Time,Active,No
+10626,Linda,Chen,2,8,Ogden,Part-Time,Withdrawn,No
+10627,Sofia,Hernandez,1,3,Online,Part-Time,Graduated,No
+10628,Maria,Hernandez,1,3,Ogden,Part-Time,Active,No
+10629,James,Novak,2,8,St. George,Part-Time,Graduated,No
+10630,Quinn,Silva,1,1,Ogden,Full-Time,Active,No
+10631,Yuki,Thomas,2,2,St. George,Full-Time,Active,No
+10632,William,Jones,2,2,Salt Lake City,Part-Time,Active,No
+10633,Casey,Jones,1,5,St. George,Full-Time,Active,No
+10634,Patricia,Choi,5,6,St. George,Part-Time,Withdrawn,No
+10635,William,Anderson,1,9,St. George,Part-Time,Active,No
+10636,Michael,Patel,3,5,Provo,Full-Time,Withdrawn,No
+10637,Alex,Smith,2,5,St. George,Full-Time,Active,No
+10638,Michael,Haddad,2,1,Online,Part-Time,Graduated,No
+10639,David,Lopez,5,4,Provo,Part-Time,Graduated,No
+10640,Kenji,Okafor,2,4,Online,Part-Time,Active,No
+10641,Luis,Ferrara,1,4,St. George,Part-Time,Active,No
+10642,Omar,Williams,4,5,Provo,Full-Time,Active,No
+10643,William,Thomas,3,8,Provo,Part-Time,Active,Yes
+10644,Morgan,Martinez,6,1,Ogden,Full-Time,Active,No
+10645,Alex,Thomas,4,4,Provo,Part-Time,Active,No
+10646,Patricia,Rossi,5,8,Salt Lake City,Part-Time,Leave of Absence,Yes
+10647,Michael,Garcia,1,7,Provo,Part-Time,Active,No
+10648,Priya,Davis,5,2,Online,Part-Time,Leave of Absence,No
+10649,Fatima,Brown,6,4,St. George,Full-Time,Active,No
+10650,Riley,Okafor,3,5,Salt Lake City,Full-Time,Withdrawn,No
+10651,Jordan,Choi,3,4,Provo,Full-Time,Active,No
+10652,Rowan,Kim,2,1,Salt Lake City,Part-Time,Active,No
+10653,Priya,Thomas,1,1,St. George,Full-Time,Graduated,No
+10654,Diego,Chen,1,3,Ogden,Full-Time,Active,Yes
+10655,Quinn,Hernandez,4,2,St. George,Part-Time,Active,No
+10656,Linda,Lopez,2,4,Provo,Part-Time,Active,No
+10657,David,Rossi,2,8,Online,Full-Time,Graduated,No
+10658,Rowan,Choi,2,6,St. George,Full-Time,Graduated,Yes
+10659,Patricia,Smith,2,5,St. George,Part-Time,Active,No
+10660,Quinn,Hernandez,5,6,Salt Lake City,Part-Time,Graduated,No
+10661,Sage,Hernandez,3,9,Online,Part-Time,Active,Yes
+10662,Jordan,Miller,1,3,Salt Lake City,Part-Time,Active,No
+10663,Jennifer,Chen,1,7,St. George,Part-Time,Graduated,Yes
+10664,Sofia,Miller,3,2,Online,Full-Time,Active,No
+10665,Yuki,Wilson,3,6,Ogden,Full-Time,Graduated,No
+10666,Nadia,Martinez,1,1,Salt Lake City,Full-Time,Graduated,No
+10667,Avery,Miller,1,4,St. George,Full-Time,Active,No
+10668,Robert,Novak,6,9,Salt Lake City,Part-Time,Graduated,No
+10669,Riley,Ivanov,4,7,Provo,Part-Time,Withdrawn,No
+10670,Patricia,Ferrara,3,9,Ogden,Part-Time,Leave of Absence,No
+10671,Aisha,Wilson,6,6,Ogden,Full-Time,Active,No
+10672,Rowan,Lopez,1,9,Online,Part-Time,Withdrawn,No
+10673,William,Smith,1,1,St. George,Full-Time,Leave of Absence,No
+10674,Avery,Choi,1,5,Ogden,Full-Time,Leave of Absence,No
+10675,Jennifer,Patel,6,5,St. George,Full-Time,Withdrawn,No
+10676,Yuki,Kim,2,3,Provo,Full-Time,Active,No
+10677,Avery,Novak,1,7,Salt Lake City,Part-Time,Graduated,No
+10678,Sage,Johnson,1,2,St. George,Part-Time,Graduated,Yes
+10679,Nadia,Wilson,5,6,Online,Full-Time,Active,No
+10680,Aisha,Gonzalez,1,1,Salt Lake City,Part-Time,Graduated,No
+10681,Priya,Davis,1,3,Provo,Full-Time,Active,No
+10682,Elizabeth,Nguyen,6,8,Salt Lake City,Full-Time,Graduated,No
+10683,Taylor,Thomas,5,3,St. George,Full-Time,Active,No
+10684,Fatima,Rossi,1,7,Provo,Full-Time,Active,No
+10685,Avery,Patel,1,7,St. George,Full-Time,Graduated,No
+10686,Sofia,Kim,1,7,Salt Lake City,Full-Time,Active,No
+10687,James,Chen,2,6,Salt Lake City,Part-Time,Active,No
+10688,Patricia,Johnson,1,8,Provo,Full-Time,Graduated,No
+10689,Jordan,Davis,1,2,St. George,Full-Time,Active,No
+10690,Luis,Brown,5,1,Ogden,Part-Time,Active,No
+10691,David,Nguyen,1,9,Ogden,Part-Time,Active,No
+10692,Yuki,Silva,6,1,St. George,Full-Time,Active,No
+10693,William,Rodriguez,1,4,Salt Lake City,Part-Time,Graduated,No
+10694,Diego,Choi,1,7,Ogden,Full-Time,Graduated,No
+10695,Priya,Brown,1,7,Ogden,Part-Time,Active,No
+10696,Patricia,Patel,2,3,Salt Lake City,Full-Time,Active,No
+10697,Kenji,Garcia,2,6,Salt Lake City,Part-Time,Active,No
+10698,Jennifer,Rodriguez,2,5,Salt Lake City,Part-Time,Active,No
+10699,Rowan,Davis,5,1,Provo,Part-Time,Withdrawn,No
+10700,Jennifer,Silva,3,2,St. George,Full-Time,Graduated,No
+10701,Sofia,Chen,3,7,Ogden,Part-Time,Leave of Absence,No
+10702,Diego,Ivanov,1,3,Provo,Full-Time,Graduated,No
+10703,Robert,Ferrara,4,9,Provo,Full-Time,Withdrawn,No
+10704,Nadia,Diallo,3,2,Provo,Full-Time,Active,No
+10705,Sage,Anderson,5,7,Ogden,Full-Time,Leave of Absence,No
+10706,William,Chen,1,3,Ogden,Full-Time,Active,No
+10707,Priya,Haddad,1,1,Online,Full-Time,Active,No
+10708,Linda,Thomas,3,6,Online,Full-Time,Active,No
+10709,Alex,Ferrara,1,7,Ogden,Part-Time,Graduated,No
+10710,Taylor,Garcia,3,4,Online,Part-Time,Graduated,No
+10711,Fatima,Johnson,5,4,St. George,Part-Time,Active,No
+10712,Yuki,Rossi,2,9,Salt Lake City,Full-Time,Active,No
+10713,Quinn,Nguyen,5,1,St. George,Part-Time,Withdrawn,No
+10714,Aisha,Johnson,1,7,Provo,Part-Time,Active,No
+10715,Robert,Martinez,5,5,St. George,Full-Time,Active,No
+10716,Patricia,Williams,5,8,St. George,Full-Time,Graduated,No
+10717,Robert,Hernandez,3,9,Online,Full-Time,Active,No
+10718,Taylor,Rodriguez,3,4,Ogden,Full-Time,Withdrawn,No
+10719,Aisha,Lopez,1,2,Salt Lake City,Part-Time,Graduated,No
+10720,Linda,Johnson,6,3,Provo,Part-Time,Active,No
+10721,Casey,Garcia,3,3,Salt Lake City,Part-Time,Active,No
+10722,Riley,Brown,4,8,Provo,Full-Time,Active,No
+10723,David,Ivanov,1,8,Salt Lake City,Part-Time,Withdrawn,No
+10724,Patricia,Williams,3,8,St. George,Full-Time,Active,No
+10725,Avery,Johnson,2,9,Provo,Full-Time,Graduated,No
+10726,Nadia,Chen,1,1,Ogden,Part-Time,Graduated,No
+10727,Riley,Silva,1,7,Ogden,Full-Time,Leave of Absence,No
+10728,Taylor,Haddad,4,6,Ogden,Part-Time,Withdrawn,No
+10729,Nadia,Patel,2,2,Salt Lake City,Part-Time,Graduated,No
+10730,Robert,Nguyen,1,5,Provo,Full-Time,Active,No
+10731,Michael,Novak,1,9,St. George,Part-Time,Leave of Absence,No
+10732,William,Lopez,5,5,Provo,Part-Time,Active,No
+10733,Yuki,Chen,3,8,Provo,Part-Time,Graduated,No
+10734,Luis,Brown,1,1,Provo,Part-Time,Active,No
+10735,Avery,Smith,1,9,Provo,Part-Time,Graduated,No
+10736,Maria,Haddad,1,5,Salt Lake City,Full-Time,Active,No
+10737,Avery,Hernandez,1,1,Ogden,Part-Time,Withdrawn,No
+10738,Aisha,Anderson,5,3,St. George,Part-Time,Active,No
+10739,Sage,Kim,5,1,Ogden,Full-Time,Withdrawn,No
+10740,Casey,Rodriguez,3,6,Salt Lake City,Part-Time,Active,No
+10741,Linda,Garcia,3,3,St. George,Full-Time,Graduated,No
+10742,Rowan,Wilson,4,6,Salt Lake City,Part-Time,Graduated,No
+10743,Sage,Garcia,2,5,Salt Lake City,Part-Time,Active,No
+10744,Alex,Ivanov,4,2,Online,Full-Time,Active,No
+10745,Maria,Jones,5,9,Salt Lake City,Full-Time,Active,No
+10746,Jennifer,Brown,1,7,Salt Lake City,Part-Time,Graduated,No
+10747,Yuki,Johnson,3,2,Salt Lake City,Part-Time,Active,No
+10748,Avery,Martinez,3,4,Ogden,Part-Time,Active,No
+10749,Rowan,Brown,3,5,Salt Lake City,Full-Time,Active,No
+10750,Priya,Ivanov,2,6,Ogden,Full-Time,Active,No
+10751,Jordan,Jones,1,6,Salt Lake City,Part-Time,Active,No
+10752,Robert,Gonzalez,1,7,Provo,Part-Time,Active,No
+10753,Diego,Ivanov,1,4,St. George,Full-Time,Graduated,No
+10754,Taylor,Berg,4,8,Online,Full-Time,Graduated,No
+10755,Quinn,Jones,3,8,St. George,Part-Time,Active,No
+10756,Yuki,Hernandez,2,6,Online,Part-Time,Graduated,No
+10757,Riley,Martinez,1,8,Ogden,Full-Time,Active,No
+10758,Aisha,Williams,2,2,Ogden,Part-Time,Active,No
+10759,Michael,Gonzalez,2,4,Salt Lake City,Part-Time,Active,No
+10760,Robert,Kim,3,7,Ogden,Full-Time,Graduated,No
+10761,William,Anderson,3,8,Ogden,Full-Time,Active,No
+10762,Morgan,Silva,1,7,St. George,Part-Time,Active,No
+10763,Nadia,Jones,3,1,St. George,Full-Time,Active,No
+10764,Linda,Chen,3,8,St. George,Part-Time,Active,No
+10765,Luis,Ferrara,3,6,Ogden,Part-Time,Active,No
+10766,William,Nguyen,5,2,Online,Full-Time,Graduated,No
+10767,Alex,Rossi,1,9,St. George,Part-Time,Leave of Absence,No
+10768,Elizabeth,Gonzalez,5,4,Ogden,Part-Time,Active,No
+10769,Michael,Jones,2,4,Provo,Part-Time,Graduated,No
+10770,Omar,Silva,2,7,Provo,Full-Time,Active,Yes
+10771,Casey,Williams,1,8,Provo,Part-Time,Graduated,No
+10772,Patricia,Nguyen,5,7,Online,Part-Time,Graduated,No
+10773,Elizabeth,Thomas,1,7,Provo,Part-Time,Graduated,No
+10774,Jordan,Kim,2,6,Online,Part-Time,Active,No
+10775,Kenji,Nguyen,6,2,Ogden,Part-Time,Active,No
+10776,Aisha,Novak,2,2,Salt Lake City,Part-Time,Active,No
+10777,Michael,Anderson,5,9,St. George,Part-Time,Graduated,No
+10778,Luis,Martinez,1,6,Ogden,Full-Time,Leave of Absence,No
+10779,Michael,Kim,4,5,Provo,Full-Time,Active,No
+10780,Taylor,Jones,1,1,St. George,Full-Time,Active,No
+10781,Rowan,Choi,1,3,Ogden,Full-Time,Graduated,No
+10782,James,Ivanov,3,3,Provo,Part-Time,Graduated,No
+10783,Omar,Johnson,1,3,Ogden,Full-Time,Graduated,No
+10784,Fatima,Wilson,3,3,Online,Full-Time,Withdrawn,No
+10785,Kenji,Berg,4,3,Ogden,Full-Time,Active,No
+10786,Patricia,Gonzalez,4,2,Online,Part-Time,Active,No
+10787,Diego,Rossi,6,9,Online,Part-Time,Active,No
+10788,Sofia,Ivanov,2,7,Online,Part-Time,Active,No
+10789,David,Okafor,6,1,Ogden,Part-Time,Active,No
+10790,Rowan,Ivanov,3,5,Salt Lake City,Part-Time,Active,No
+10791,Elizabeth,Haddad,2,4,Provo,Part-Time,Graduated,No
+10792,Diego,Smith,6,6,Salt Lake City,Full-Time,Active,No
+10793,Kenji,Martinez,2,8,Ogden,Full-Time,Active,Yes
+10794,Aisha,Brown,1,4,Salt Lake City,Full-Time,Withdrawn,No
+10795,Priya,Garcia,1,3,Ogden,Part-Time,Withdrawn,No
+10796,Rowan,Haddad,6,8,Online,Part-Time,Withdrawn,No
+10797,Linda,Gonzalez,5,5,Ogden,Full-Time,Graduated,No
+10798,Michael,Ferrara,5,3,Provo,Part-Time,Active,No
+10799,Robert,Miller,2,3,St. George,Full-Time,Active,No
+10800,Taylor,Kim,4,2,Ogden,Part-Time,Active,No
+10801,Diego,Gonzalez,1,1,Ogden,Full-Time,Withdrawn,No
+10802,Fatima,Thomas,5,1,Online,Part-Time,Active,No
+10803,Alex,Gonzalez,4,2,Online,Full-Time,Active,No
+10804,Sage,Gonzalez,6,6,Salt Lake City,Full-Time,Active,No
+10805,Patricia,Haddad,5,6,Ogden,Full-Time,Active,No
+10806,Sage,Rossi,1,7,Online,Full-Time,Graduated,No
+10807,Patricia,Novak,2,2,Provo,Full-Time,Withdrawn,Yes
+10808,Taylor,Ivanov,4,4,St. George,Part-Time,Active,No
+10809,Alex,Johnson,6,8,Ogden,Full-Time,Leave of Absence,No
+10810,Luis,Okafor,4,7,St. George,Part-Time,Active,No
+10811,Elizabeth,Davis,5,9,Salt Lake City,Full-Time,Active,No
+10812,Sofia,Chen,2,1,Salt Lake City,Full-Time,Active,No
+10813,Yuki,Martinez,1,3,Salt Lake City,Part-Time,Graduated,No
+10814,Morgan,Brown,5,2,Online,Full-Time,Graduated,Yes
+10815,Diego,Kim,2,7,St. George,Full-Time,Active,No
+10816,Elizabeth,Garcia,6,4,Ogden,Full-Time,Graduated,No
+10817,James,Patel,1,7,Provo,Part-Time,Active,No
+10818,Omar,Okafor,3,3,St. George,Part-Time,Active,No
+10819,Alex,Garcia,1,8,Salt Lake City,Part-Time,Active,No
+10820,Avery,Jones,5,8,Ogden,Part-Time,Graduated,No
+10821,Priya,Thomas,6,1,St. George,Full-Time,Graduated,No
+10822,David,Davis,5,6,Provo,Full-Time,Active,No
+10823,David,Nguyen,6,6,Provo,Part-Time,Withdrawn,No
+10824,Morgan,Ivanov,3,5,Provo,Part-Time,Active,No
+10825,James,Martinez,1,1,Provo,Part-Time,Active,No
+10826,Kenji,Johnson,3,8,St. George,Full-Time,Active,No
+10827,Yuki,Davis,1,9,Online,Part-Time,Active,No
+10828,Morgan,Hernandez,4,6,Provo,Full-Time,Active,No
+10829,Quinn,Williams,2,4,Online,Part-Time,Active,No
+10830,James,Jones,1,8,Online,Full-Time,Active,No
+10831,Jordan,Rossi,6,4,St. George,Full-Time,Active,No
+10832,Riley,Haddad,1,8,Ogden,Full-Time,Active,No
+10833,David,Choi,3,3,Provo,Full-Time,Graduated,No
+10834,Nadia,Anderson,2,4,Ogden,Full-Time,Graduated,No
+10835,Robert,Kim,4,4,Provo,Full-Time,Active,No
+10836,Jordan,Thomas,5,7,St. George,Full-Time,Leave of Absence,No
+10837,Quinn,Williams,2,2,St. George,Full-Time,Active,No
+10838,Sage,Davis,2,4,Salt Lake City,Full-Time,Active,No
+10839,Kenji,Kim,1,8,Salt Lake City,Part-Time,Withdrawn,No
+10840,Omar,Lopez,1,7,Online,Full-Time,Active,No
+10841,Sage,Wilson,1,6,Ogden,Full-Time,Active,No
+10842,Jordan,Nguyen,1,6,Ogden,Full-Time,Graduated,No
+10843,Riley,Okafor,2,1,St. George,Full-Time,Active,No
+10844,Quinn,Patel,4,3,Salt Lake City,Part-Time,Leave of Absence,No
+10845,Fatima,Davis,4,4,Ogden,Part-Time,Graduated,No
+10846,Taylor,Lopez,2,7,Ogden,Part-Time,Active,No
+10847,David,Silva,2,2,St. George,Part-Time,Active,No
+10848,Yuki,Anderson,2,2,Salt Lake City,Full-Time,Active,No
+10849,Rowan,Brown,1,2,Provo,Part-Time,Active,No
+10850,Diego,Patel,1,1,Provo,Part-Time,Active,No
+10851,Taylor,Smith,2,1,Provo,Part-Time,Active,No
+10852,Diego,Rossi,1,6,St. George,Part-Time,Active,No
+10853,Rowan,Davis,3,5,Online,Part-Time,Active,No
+10854,Sage,Anderson,4,1,Provo,Full-Time,Active,No
+10855,Priya,Diallo,1,3,Provo,Full-Time,Withdrawn,No
+10856,Patricia,Rodriguez,1,6,Ogden,Full-Time,Graduated,No
+10857,Casey,Lopez,4,6,Online,Full-Time,Leave of Absence,No
+10858,Michael,Haddad,1,1,Provo,Part-Time,Active,No
+10859,Maria,Okafor,1,9,Ogden,Part-Time,Leave of Absence,No
+10860,Kenji,Ferrara,6,3,Online,Part-Time,Graduated,No
+10861,David,Brown,4,1,Ogden,Full-Time,Active,No
+10862,Maria,Johnson,5,8,St. George,Full-Time,Active,No
+10863,Taylor,Patel,1,5,Online,Full-Time,Active,No
+10864,William,Nguyen,2,8,Salt Lake City,Part-Time,Active,No
+10865,James,Smith,4,7,Ogden,Part-Time,Active,No
+10866,Kenji,Diallo,6,9,Online,Part-Time,Active,No
+10867,Robert,Jones,1,7,St. George,Full-Time,Graduated,No
+10868,Taylor,Ferrara,1,9,St. George,Part-Time,Leave of Absence,No
+10869,David,Anderson,3,5,St. George,Full-Time,Active,No
+10870,Jordan,Berg,5,5,Ogden,Part-Time,Graduated,No
+10871,Alex,Jones,4,4,Ogden,Part-Time,Active,No
+10872,Diego,Diallo,5,8,Ogden,Part-Time,Active,No
+10873,Fatima,Rodriguez,5,4,Online,Full-Time,Active,No
+10874,Omar,Rodriguez,2,8,Online,Full-Time,Graduated,No
+10875,Riley,Kim,4,1,Salt Lake City,Full-Time,Withdrawn,No
+10876,Jordan,Rodriguez,5,3,Ogden,Part-Time,Active,No
+10877,Jennifer,Okafor,6,1,Salt Lake City,Full-Time,Active,No
+10878,Riley,Patel,1,2,Ogden,Part-Time,Graduated,No
+10879,Priya,Rossi,3,5,Ogden,Full-Time,Active,No
+10880,Jennifer,Martinez,2,3,Ogden,Part-Time,Active,No
+10881,Casey,Nguyen,5,3,Provo,Full-Time,Active,No
+10882,Priya,Patel,3,9,Salt Lake City,Part-Time,Withdrawn,No
+10883,Michael,Lopez,1,3,Ogden,Part-Time,Withdrawn,No
+10884,Maria,Garcia,2,9,Ogden,Full-Time,Graduated,No
+10885,Casey,Rossi,1,3,Provo,Part-Time,Withdrawn,No
+10886,Fatima,Ivanov,1,2,Salt Lake City,Full-Time,Active,No
+10887,Jordan,Ivanov,4,1,St. George,Full-Time,Active,No
+10888,Diego,Smith,5,1,Salt Lake City,Full-Time,Active,No
+10889,James,Smith,1,4,Salt Lake City,Full-Time,Active,No
+10890,Omar,Nguyen,6,6,St. George,Full-Time,Active,No
+10891,Priya,Miller,1,1,Ogden,Full-Time,Active,No
+10892,Sofia,Nguyen,2,2,Online,Part-Time,Withdrawn,No
+10893,James,Gonzalez,1,2,Online,Full-Time,Active,No
+10894,Morgan,Nguyen,2,6,Provo,Part-Time,Active,No
+10895,Taylor,Hernandez,4,9,Online,Full-Time,Graduated,No
+10896,Nadia,Anderson,2,5,Provo,Part-Time,Graduated,No
+10897,Yuki,Berg,5,4,Online,Part-Time,Withdrawn,No
+10898,Linda,Anderson,6,8,St. George,Full-Time,Graduated,No
+10899,Yuki,Garcia,2,2,Salt Lake City,Part-Time,Graduated,No
+10900,Nadia,Wilson,1,7,Online,Part-Time,Active,No
+10901,Luis,Okafor,4,5,Online,Part-Time,Graduated,No
+10902,Jennifer,Rodriguez,3,7,Provo,Part-Time,Leave of Absence,No
+10903,Casey,Smith,2,4,Salt Lake City,Full-Time,Graduated,No
+10904,Linda,Chen,2,1,Ogden,Full-Time,Leave of Absence,No
+10905,Jennifer,Haddad,3,2,Online,Part-Time,Graduated,No
+10906,David,Hernandez,3,8,St. George,Full-Time,Active,No
+10907,Morgan,Gonzalez,1,7,Online,Part-Time,Withdrawn,No
+10908,David,Silva,2,1,Ogden,Full-Time,Active,No
+10909,Morgan,Kim,1,7,Online,Part-Time,Active,No
+10910,Rowan,Thomas,5,9,St. George,Part-Time,Active,No
+10911,Alex,Kim,2,5,Salt Lake City,Full-Time,Active,No
+10912,Aisha,Hernandez,1,1,Online,Full-Time,Graduated,No
+10913,Diego,Davis,6,7,Provo,Full-Time,Active,No
+10914,Morgan,Hernandez,3,2,Provo,Full-Time,Withdrawn,No
+10915,Yuki,Wilson,1,7,Ogden,Full-Time,Graduated,No
+10916,Linda,Hernandez,3,6,St. George,Full-Time,Active,No
+10917,Jennifer,Ivanov,1,4,Ogden,Full-Time,Active,No
+10918,Aisha,Choi,2,7,Salt Lake City,Full-Time,Active,No
+10919,William,Novak,1,7,Salt Lake City,Full-Time,Graduated,No
+10920,Avery,Lopez,1,9,Salt Lake City,Part-Time,Active,No
+10921,Robert,Gonzalez,1,9,Ogden,Part-Time,Active,No
+10922,Jennifer,Choi,2,1,Provo,Part-Time,Graduated,No
+10923,Aisha,Patel,6,8,St. George,Part-Time,Active,No
+10924,James,Anderson,4,1,Provo,Full-Time,Active,No
+10925,Robert,Hernandez,3,5,Salt Lake City,Full-Time,Withdrawn,No
+10926,Rowan,Silva,1,5,St. George,Full-Time,Graduated,No
+10927,Luis,Berg,1,4,Ogden,Part-Time,Active,No
+10928,Jordan,Miller,6,7,Provo,Part-Time,Graduated,No
+10929,Riley,Okafor,1,5,Salt Lake City,Part-Time,Graduated,No
+10930,Sage,Choi,1,2,Salt Lake City,Part-Time,Active,No
+10931,Nadia,Novak,3,2,Provo,Full-Time,Active,Yes
+10932,Yuki,Williams,2,9,Provo,Full-Time,Active,No
+10933,Kenji,Davis,1,7,Online,Full-Time,Graduated,No
+10934,Rowan,Choi,1,5,St. George,Full-Time,Active,No
+10935,Robert,Thomas,2,2,Provo,Part-Time,Active,No
+10936,James,Berg,6,6,Ogden,Full-Time,Active,No
+10937,Diego,Ivanov,5,1,Salt Lake City,Full-Time,Withdrawn,No
+10938,Diego,Brown,2,6,St. George,Full-Time,Withdrawn,No
+10939,Sofia,Rodriguez,2,7,Ogden,Full-Time,Withdrawn,No
+10940,Yuki,Garcia,4,5,Online,Part-Time,Active,No
+10941,Rowan,Choi,4,7,Salt Lake City,Part-Time,Graduated,No
+10942,Yuki,Ferrara,2,6,Salt Lake City,Full-Time,Graduated,No
+10943,Kenji,Berg,2,6,St. George,Part-Time,Active,No
+10944,Riley,Okafor,1,1,Online,Full-Time,Graduated,Yes
+10945,Morgan,Garcia,3,6,Provo,Full-Time,Graduated,No
+10946,Omar,Novak,3,6,Provo,Part-Time,Active,No
+10947,Avery,Williams,3,6,Online,Part-Time,Graduated,No
+10948,Alex,Ferrara,5,4,St. George,Full-Time,Active,No
+10949,Omar,Garcia,6,4,Salt Lake City,Part-Time,Active,No
+10950,James,Garcia,3,3,St. George,Full-Time,Active,No
+10951,Michael,Brown,4,8,Provo,Full-Time,Graduated,No
+10952,Michael,Gonzalez,5,5,Provo,Part-Time,Active,No
+10953,Avery,Wilson,3,5,Provo,Part-Time,Graduated,No
+10954,Patricia,Ferrara,1,5,Provo,Part-Time,Active,No
+10955,Casey,Choi,3,2,Ogden,Part-Time,Active,No
+10956,Rowan,Williams,4,7,Salt Lake City,Full-Time,Graduated,Yes
+10957,Diego,Ivanov,2,6,St. George,Full-Time,Leave of Absence,No
+10958,Casey,Diallo,1,7,St. George,Full-Time,Graduated,No
+10959,Maria,Diallo,1,9,Online,Full-Time,Active,No
+10960,Casey,Thomas,1,2,Ogden,Part-Time,Active,No
+10961,Fatima,Ferrara,1,5,Ogden,Part-Time,Graduated,No
+10962,Casey,Patel,1,8,Online,Full-Time,Graduated,No
+10963,Rowan,Garcia,1,3,Online,Part-Time,Active,No
+10964,David,Thomas,1,6,Online,Part-Time,Leave of Absence,Yes
+10965,Sage,Garcia,1,2,Provo,Part-Time,Active,No
+10966,Alex,Nguyen,3,4,St. George,Full-Time,Graduated,No
+10967,Yuki,Hernandez,1,8,Salt Lake City,Part-Time,Graduated,No
+10968,Sofia,Brown,3,7,Ogden,Full-Time,Active,No
+10969,Rowan,Chen,5,8,Salt Lake City,Part-Time,Active,No
+10970,Kenji,Novak,3,8,St. George,Full-Time,Active,No
+10971,Jordan,Novak,1,5,Salt Lake City,Part-Time,Active,No
+10972,Omar,Miller,1,7,Provo,Part-Time,Active,No
+10973,Michael,Ivanov,1,3,Online,Part-Time,Active,No
+10974,Nadia,Lopez,3,6,St. George,Full-Time,Graduated,No
+10975,William,Wilson,5,8,Salt Lake City,Part-Time,Active,No
+10976,Taylor,Johnson,3,7,St. George,Part-Time,Graduated,No
+10977,Jennifer,Okafor,3,3,St. George,Full-Time,Withdrawn,No
+10978,Casey,Silva,2,8,Ogden,Full-Time,Active,No
+10979,Sofia,Johnson,1,1,St. George,Full-Time,Graduated,No
+10980,Elizabeth,Berg,2,8,Ogden,Part-Time,Graduated,No
+10981,Kenji,Silva,1,9,Online,Full-Time,Active,No
+10982,Yuki,Rossi,5,1,Ogden,Part-Time,Active,No
+10983,Rowan,Hernandez,2,8,Provo,Full-Time,Graduated,No
+10984,Morgan,Wilson,4,5,St. George,Full-Time,Withdrawn,Yes
+10985,Linda,Choi,1,8,St. George,Part-Time,Active,No
+10986,Priya,Silva,5,6,Online,Part-Time,Graduated,Yes
+10987,Priya,Miller,1,2,Salt Lake City,Full-Time,Graduated,No
+10988,Aisha,Choi,1,4,St. George,Full-Time,Active,No
+10989,Riley,Diallo,1,7,Provo,Part-Time,Active,No
+10990,Avery,Martinez,2,8,St. George,Part-Time,Graduated,Yes
+10991,Omar,Thomas,1,7,St. George,Part-Time,Leave of Absence,No
+10992,Jordan,Nguyen,2,8,Salt Lake City,Part-Time,Active,No
+10993,Robert,Diallo,3,5,Online,Full-Time,Withdrawn,No
+10994,Robert,Smith,6,6,Provo,Part-Time,Active,No
+10995,Quinn,Kim,2,8,Ogden,Part-Time,Active,No
+10996,Nadia,Silva,1,7,Ogden,Part-Time,Withdrawn,No
+10997,Kenji,Williams,5,4,Online,Full-Time,Active,No
+10998,Robert,Thomas,1,8,Ogden,Full-Time,Active,No
+10999,Rowan,Lopez,1,1,Provo,Full-Time,Active,No
+11000,Maria,Wilson,5,1,Salt Lake City,Full-Time,Graduated,No
+11001,Luis,Lopez,1,5,Salt Lake City,Part-Time,Leave of Absence,No
+11002,Morgan,Rossi,5,9,Salt Lake City,Part-Time,Graduated,No
+11003,Luis,Chen,6,2,St. George,Full-Time,Leave of Absence,No
+11004,Morgan,Choi,1,2,Provo,Part-Time,Active,No
+11005,Michael,Novak,1,8,Salt Lake City,Full-Time,Graduated,No
+11006,Avery,Anderson,1,3,Online,Full-Time,Active,No
+11007,Riley,Williams,5,6,Ogden,Part-Time,Active,No
+11008,Fatima,Nguyen,2,4,Online,Full-Time,Active,No
+11009,Omar,Nguyen,2,7,Ogden,Full-Time,Withdrawn,No
+11010,Taylor,Hernandez,4,9,Ogden,Part-Time,Withdrawn,No
+11011,Jordan,Silva,1,1,Provo,Full-Time,Active,No
+11012,Robert,Gonzalez,6,9,St. George,Part-Time,Leave of Absence,No
+11013,Rowan,Diallo,1,6,St. George,Full-Time,Active,No
+11014,William,Ivanov,2,4,St. George,Part-Time,Withdrawn,No
+11015,Yuki,Martinez,5,7,Salt Lake City,Full-Time,Graduated,No
+11016,David,Martinez,2,3,Provo,Full-Time,Active,No
+11017,Riley,Smith,1,6,Salt Lake City,Part-Time,Graduated,No
+11018,Morgan,Novak,4,7,Salt Lake City,Part-Time,Leave of Absence,No
+11019,Aisha,Brown,2,2,Online,Part-Time,Active,No
+11020,Luis,Novak,1,6,St. George,Full-Time,Leave of Absence,No
+11021,Jennifer,Novak,1,3,Provo,Full-Time,Graduated,No
+11022,Casey,Rossi,3,6,Online,Part-Time,Active,Yes
+11023,Patricia,Williams,2,3,Ogden,Part-Time,Active,No
+11024,Elizabeth,Thomas,2,7,Online,Part-Time,Withdrawn,No
+11025,Casey,Nguyen,6,7,Provo,Part-Time,Graduated,No
+11026,Morgan,Rossi,1,9,Provo,Part-Time,Withdrawn,No
+11027,Morgan,Chen,4,9,Online,Full-Time,Active,No
+11028,Morgan,Lopez,3,1,Ogden,Part-Time,Active,No
+11029,Elizabeth,Wilson,2,3,Salt Lake City,Part-Time,Active,No
+11030,David,Lopez,1,8,Salt Lake City,Full-Time,Active,No
+11031,Luis,Gonzalez,3,8,Online,Full-Time,Withdrawn,No
+11032,Diego,Anderson,2,8,Provo,Part-Time,Graduated,No
+11033,Jordan,Silva,2,7,Online,Part-Time,Active,No
+11034,Luis,Haddad,5,1,Ogden,Full-Time,Graduated,No
+11035,Jordan,Kim,1,9,St. George,Full-Time,Graduated,No
+11036,Sofia,Patel,2,1,Provo,Full-Time,Active,No
+11037,David,Chen,1,8,Ogden,Part-Time,Active,No
+11038,Riley,Wilson,2,1,Salt Lake City,Part-Time,Active,No
+11039,Sage,Jones,1,2,Provo,Part-Time,Active,No
+11040,Jordan,Chen,1,7,Ogden,Full-Time,Graduated,Yes
+11041,Robert,Diallo,1,2,Ogden,Part-Time,Active,No
+11042,Quinn,Haddad,5,2,St. George,Full-Time,Active,No
+11043,Rowan,Johnson,4,7,Ogden,Part-Time,Withdrawn,No
+11044,Quinn,Ferrara,1,1,Salt Lake City,Part-Time,Active,No
+11045,David,Okafor,3,2,Provo,Part-Time,Active,No
+11046,Casey,Lopez,2,9,St. George,Full-Time,Active,No
+11047,David,Anderson,2,7,Salt Lake City,Full-Time,Leave of Absence,No
+11048,Riley,Smith,6,5,Salt Lake City,Part-Time,Graduated,No
+11049,Nadia,Okafor,1,7,Provo,Part-Time,Leave of Absence,Yes
+11050,Nadia,Jones,1,7,St. George,Part-Time,Graduated,No
+11051,Maria,Diallo,1,9,Ogden,Part-Time,Withdrawn,No
+11052,Maria,Hernandez,4,5,Provo,Part-Time,Active,No
+11053,Alex,Chen,1,3,Online,Full-Time,Graduated,No
+11054,Priya,Rossi,3,7,Online,Part-Time,Graduated,No
+11055,Yuki,Berg,5,2,Online,Full-Time,Active,No
+11056,Nadia,Haddad,5,6,Salt Lake City,Full-Time,Active,No
+11057,Kenji,Smith,6,8,Ogden,Part-Time,Active,No
+11058,Quinn,Davis,5,5,Online,Part-Time,Graduated,No
+11059,Nadia,Okafor,5,4,Online,Full-Time,Active,No
+11060,Avery,Silva,3,8,St. George,Full-Time,Active,Yes
+11061,Elizabeth,Choi,4,3,Provo,Part-Time,Active,No
+11062,Diego,Patel,3,9,Online,Full-Time,Graduated,No
+11063,Maria,Wilson,3,1,Online,Part-Time,Withdrawn,No
+11064,Fatima,Johnson,2,8,Provo,Full-Time,Active,No
+11065,Linda,Miller,2,8,Ogden,Full-Time,Active,No
+11066,Robert,Williams,5,4,Provo,Full-Time,Leave of Absence,No
+11067,Robert,Ivanov,1,2,Salt Lake City,Part-Time,Active,No
+11068,Maria,Berg,1,8,Salt Lake City,Part-Time,Active,No
+11069,William,Anderson,1,2,Salt Lake City,Part-Time,Graduated,No
+11070,Linda,Hernandez,1,1,Salt Lake City,Full-Time,Withdrawn,No
+11071,Diego,Johnson,1,7,St. George,Full-Time,Active,No
+11072,Robert,Davis,2,2,St. George,Full-Time,Graduated,No
+11073,William,Brown,2,7,Ogden,Full-Time,Withdrawn,No
+11074,Alex,Chen,1,4,Salt Lake City,Full-Time,Active,No
+11075,Robert,Thomas,1,9,St. George,Part-Time,Active,No
+11076,Sage,Kim,1,1,Online,Part-Time,Active,No
+11077,Sage,Chen,5,3,Ogden,Part-Time,Active,No
+11078,Jennifer,Berg,1,3,St. George,Full-Time,Active,No
+11079,Avery,Ivanov,1,4,Salt Lake City,Part-Time,Graduated,No
+11080,Maria,Choi,2,8,St. George,Part-Time,Graduated,No
+11081,Yuki,Ivanov,2,3,Salt Lake City,Part-Time,Active,No
+11082,Patricia,Chen,1,4,Provo,Full-Time,Graduated,No
+11083,Linda,Miller,4,6,Online,Full-Time,Graduated,No
+11084,Alex,Patel,1,1,Salt Lake City,Full-Time,Active,No
+11085,Alex,Miller,1,6,Provo,Part-Time,Active,No
+11086,David,Davis,5,3,Provo,Full-Time,Active,No
+11087,Casey,Gonzalez,5,1,Salt Lake City,Part-Time,Withdrawn,No
+11088,James,Silva,1,4,Provo,Part-Time,Active,No
+11089,Casey,Ivanov,1,3,Provo,Full-Time,Withdrawn,No
+11090,Aisha,Davis,3,6,Salt Lake City,Full-Time,Graduated,No
+11091,Jordan,Okafor,1,3,Ogden,Full-Time,Active,No
+11092,Taylor,Ivanov,6,8,Online,Full-Time,Active,No
+11093,Jennifer,Anderson,2,9,Provo,Part-Time,Active,No
+11094,Michael,Thomas,2,8,Ogden,Part-Time,Graduated,No
+11095,Yuki,Miller,5,1,Online,Full-Time,Active,No
+11096,Sofia,Berg,1,7,Ogden,Part-Time,Graduated,No
+11097,Jennifer,Lopez,1,2,Provo,Full-Time,Active,No
+11098,Robert,Wilson,3,7,Ogden,Part-Time,Active,No
+11099,Rowan,Okafor,2,3,Salt Lake City,Part-Time,Active,No
+11100,Aisha,Williams,1,9,Ogden,Full-Time,Active,Yes
+11101,Avery,Silva,2,9,Ogden,Part-Time,Active,No
+11102,William,Jones,5,5,St. George,Part-Time,Active,No
+11103,Linda,Gonzalez,1,6,St. George,Full-Time,Graduated,No
+11104,Quinn,Davis,2,3,Provo,Part-Time,Withdrawn,No
+11105,Kenji,Berg,3,9,Online,Part-Time,Graduated,No
+11106,Priya,Wilson,1,4,Provo,Part-Time,Active,No
+11107,Omar,Jones,3,6,Ogden,Full-Time,Active,No
+11108,Robert,Wilson,3,6,Online,Part-Time,Active,No
+11109,Casey,Hernandez,1,1,St. George,Part-Time,Withdrawn,No
+11110,Linda,Miller,1,7,Online,Full-Time,Active,No
+11111,Morgan,Silva,6,5,St. George,Full-Time,Active,No
+11112,Linda,Martinez,1,4,Provo,Full-Time,Active,No
+11113,Jennifer,Smith,2,8,Provo,Part-Time,Active,No
+11114,Casey,Patel,2,3,Online,Part-Time,Leave of Absence,No
+11115,Avery,Martinez,2,4,Online,Part-Time,Active,No
+11116,Jennifer,Rossi,3,5,Online,Part-Time,Graduated,No
+11117,Linda,Chen,6,8,Provo,Part-Time,Active,No
+11118,Jordan,Novak,5,8,Salt Lake City,Part-Time,Active,No
+11119,Priya,Ivanov,5,6,Ogden,Part-Time,Graduated,No
+11120,Riley,Diallo,5,3,St. George,Part-Time,Active,No
+11121,Morgan,Gonzalez,5,3,Salt Lake City,Full-Time,Graduated,No
+11122,Sofia,Williams,1,9,Provo,Part-Time,Active,No
+11123,Taylor,Haddad,4,2,Salt Lake City,Part-Time,Leave of Absence,No
+11124,Patricia,Smith,1,4,Salt Lake City,Part-Time,Active,No
+11125,Alex,Rodriguez,4,4,Salt Lake City,Full-Time,Active,No
+11126,Taylor,Patel,4,8,Provo,Part-Time,Active,No
+11127,Alex,Chen,5,3,Salt Lake City,Full-Time,Active,No
+11128,Diego,Haddad,2,7,Salt Lake City,Part-Time,Active,No
+11129,Yuki,Silva,2,4,St. George,Full-Time,Graduated,No
+11130,Priya,Silva,1,9,Salt Lake City,Part-Time,Graduated,No
+11131,Linda,Haddad,2,1,Provo,Full-Time,Active,No
+11132,Alex,Smith,1,2,Ogden,Full-Time,Active,No
+11133,Nadia,Silva,1,2,Provo,Full-Time,Graduated,Yes
+11134,Avery,Chen,5,6,Provo,Part-Time,Graduated,No
+11135,Maria,Garcia,1,4,Salt Lake City,Part-Time,Active,No
+11136,Taylor,Silva,1,4,Ogden,Part-Time,Active,Yes
+11137,Morgan,Rossi,2,8,St. George,Full-Time,Leave of Absence,No
+11138,Priya,Gonzalez,1,6,Provo,Part-Time,Leave of Absence,No
+11139,Diego,Thomas,4,6,Salt Lake City,Part-Time,Leave of Absence,No
+11140,Priya,Smith,2,4,Provo,Full-Time,Active,No
+11141,Robert,Haddad,5,5,Provo,Full-Time,Active,No
+11142,Avery,Okafor,2,4,Salt Lake City,Full-Time,Active,No
+11143,Maria,Jones,3,8,Ogden,Part-Time,Graduated,No
+11144,Robert,Okafor,4,9,Ogden,Full-Time,Graduated,No
+11145,David,Johnson,4,6,Provo,Full-Time,Active,No
+11146,Aisha,Smith,2,6,Salt Lake City,Part-Time,Active,Yes
+11147,Casey,Williams,1,3,Provo,Full-Time,Withdrawn,No
+11148,Kenji,Miller,1,8,Provo,Part-Time,Active,No
+11149,Aisha,Miller,1,5,Ogden,Part-Time,Graduated,No
+11150,Robert,Nguyen,2,3,St. George,Part-Time,Active,No
+11151,Linda,Wilson,5,8,Salt Lake City,Part-Time,Active,No
+11152,Patricia,Martinez,1,3,Online,Part-Time,Active,No
+11153,Priya,Thomas,3,2,Provo,Full-Time,Active,No
+11154,James,Thomas,1,9,Online,Part-Time,Graduated,No
+11155,Sage,Okafor,6,6,St. George,Full-Time,Active,No
+11156,Elizabeth,Garcia,1,2,Provo,Part-Time,Active,No
+11157,Michael,Okafor,4,6,Ogden,Full-Time,Active,No
+11158,Jordan,Ferrara,5,4,Ogden,Full-Time,Active,No
+11159,Diego,Jones,3,5,Ogden,Full-Time,Graduated,No
+11160,Fatima,Williams,6,3,Online,Part-Time,Active,No
+11161,Avery,Diallo,6,2,Online,Full-Time,Active,No
+11162,David,Silva,1,5,Online,Part-Time,Active,No
+11163,Elizabeth,Haddad,4,2,Ogden,Full-Time,Active,No
+11164,Alex,Garcia,1,7,Online,Full-Time,Graduated,No
+11165,Riley,Garcia,2,5,Ogden,Full-Time,Graduated,No
+11166,Morgan,Anderson,1,3,St. George,Full-Time,Active,No
+11167,Avery,Rodriguez,1,3,Online,Part-Time,Graduated,No
+11168,Taylor,Gonzalez,3,3,Salt Lake City,Part-Time,Active,Yes
+11169,Fatima,Brown,3,8,Salt Lake City,Full-Time,Active,No
+11170,Jennifer,Ivanov,6,1,Salt Lake City,Part-Time,Active,No
+11171,Michael,Haddad,6,5,Ogden,Part-Time,Withdrawn,No
+11172,Nadia,Davis,3,6,Ogden,Part-Time,Leave of Absence,No
+11173,Luis,Brown,1,6,Salt Lake City,Part-Time,Withdrawn,No
+11174,Morgan,Choi,2,3,St. George,Part-Time,Active,No
+11175,William,Silva,4,4,Online,Part-Time,Active,No
+11176,James,Choi,1,6,Salt Lake City,Part-Time,Active,No
+11177,William,Ivanov,1,8,Salt Lake City,Part-Time,Active,No
+11178,Omar,Rossi,6,8,Salt Lake City,Part-Time,Leave of Absence,No
+11179,Yuki,Kim,1,3,St. George,Full-Time,Withdrawn,No
+11180,David,Choi,5,5,Online,Full-Time,Withdrawn,No
+11181,Quinn,Davis,6,8,Provo,Full-Time,Graduated,No
+11182,Priya,Smith,3,2,Provo,Part-Time,Active,No
+11183,Diego,Thomas,4,4,Salt Lake City,Full-Time,Graduated,No
+11184,Priya,Hernandez,3,8,Provo,Full-Time,Active,No
+11185,Luis,Patel,2,7,Online,Full-Time,Graduated,No
+11186,Maria,Novak,1,2,St. George,Full-Time,Active,No
+11187,Maria,Gonzalez,1,6,St. George,Full-Time,Active,No
+11188,Robert,Hernandez,3,4,Ogden,Full-Time,Withdrawn,No
+11189,Alex,Patel,3,4,Online,Part-Time,Active,No
+11190,Patricia,Jones,6,4,St. George,Part-Time,Active,No
+11191,Sage,Nguyen,3,1,Salt Lake City,Part-Time,Graduated,No
+11192,Avery,Thomas,4,8,Ogden,Part-Time,Graduated,No
+11193,Sofia,Ivanov,1,4,Provo,Full-Time,Withdrawn,No
+11194,Sage,Berg,4,8,Provo,Full-Time,Graduated,No
+11195,Fatima,Gonzalez,1,8,Online,Full-Time,Leave of Absence,No
+11196,David,Gonzalez,1,4,Salt Lake City,Full-Time,Graduated,No
+11197,Priya,Martinez,5,1,Online,Full-Time,Withdrawn,No
+11198,Casey,Miller,2,8,Provo,Full-Time,Active,No
+11199,Omar,Jones,1,2,Online,Part-Time,Graduated,No
+11200,Michael,Garcia,1,1,Salt Lake City,Full-Time,Active,No
+11201,Aisha,Novak,3,7,Online,Full-Time,Leave of Absence,Yes
+11202,Riley,Okafor,2,5,Online,Full-Time,Graduated,No
+11203,Aisha,Anderson,5,7,Ogden,Full-Time,Active,No
+11204,Sofia,Nguyen,1,8,Provo,Full-Time,Graduated,No
+11205,Kenji,Brown,6,8,St. George,Full-Time,Active,No
+11206,Casey,Brown,6,7,Ogden,Full-Time,Active,No
+11207,Nadia,Rossi,5,9,Salt Lake City,Part-Time,Active,No
+11208,Jennifer,Berg,2,9,St. George,Full-Time,Active,No
+11209,William,Rossi,1,2,Provo,Full-Time,Active,No
+11210,Elizabeth,Miller,5,2,Provo,Full-Time,Active,No
+11211,Morgan,Nguyen,5,1,Ogden,Part-Time,Active,No
+11212,Jordan,Nguyen,1,1,Ogden,Part-Time,Active,No
+11213,James,Chen,2,6,St. George,Full-Time,Active,No
+11214,Avery,Jones,3,1,Ogden,Full-Time,Active,No
+11215,Rowan,Jones,3,4,St. George,Part-Time,Graduated,No
+11216,Taylor,Rodriguez,1,3,Online,Full-Time,Active,No
+11217,Priya,Okafor,1,5,Provo,Part-Time,Leave of Absence,No
+11218,Robert,Berg,3,9,Provo,Part-Time,Graduated,No
+11219,Quinn,Williams,2,1,Ogden,Full-Time,Leave of Absence,No
+11220,Aisha,Williams,3,7,Ogden,Part-Time,Active,No
+11221,Morgan,Gonzalez,1,4,Provo,Part-Time,Active,No
+11222,Kenji,Diallo,5,2,Ogden,Part-Time,Active,No
+11223,William,Brown,4,5,Salt Lake City,Full-Time,Graduated,No
+11224,Kenji,Silva,4,3,St. George,Part-Time,Active,No
+11225,Priya,Jones,1,1,Provo,Full-Time,Graduated,No
+11226,Aisha,Lopez,4,1,Provo,Part-Time,Withdrawn,No
+11227,Jennifer,Martinez,1,6,Ogden,Part-Time,Graduated,No
+11228,Omar,Williams,4,4,Ogden,Part-Time,Active,No
+11229,Quinn,Williams,5,2,Provo,Full-Time,Active,No
+11230,Alex,Wilson,3,8,St. George,Full-Time,Graduated,No
+11231,Linda,Smith,2,9,St. George,Full-Time,Graduated,No
+11232,Kenji,Lopez,4,7,Provo,Full-Time,Graduated,No
+11233,Riley,Williams,6,9,Ogden,Full-Time,Withdrawn,No
+11234,Riley,Lopez,6,7,Salt Lake City,Part-Time,Active,No
+11235,Omar,Brown,1,9,Ogden,Part-Time,Withdrawn,No
+11236,Elizabeth,Gonzalez,1,1,Provo,Part-Time,Graduated,No
+11237,Jordan,Ferrara,6,9,Online,Part-Time,Graduated,Yes
+11238,Morgan,Smith,3,6,Ogden,Full-Time,Active,No
+11239,Taylor,Nguyen,1,7,St. George,Full-Time,Active,No
+11240,Diego,Rodriguez,5,1,Provo,Part-Time,Active,No
+11241,David,Ivanov,1,7,Ogden,Full-Time,Withdrawn,No
+11242,James,Novak,3,8,Online,Full-Time,Active,No
+11243,Sage,Johnson,5,4,Provo,Part-Time,Active,No
+11244,Avery,Thomas,1,1,Ogden,Full-Time,Active,No
+11245,Fatima,Haddad,3,3,Online,Part-Time,Active,No
+11246,James,Nguyen,6,1,Salt Lake City,Full-Time,Active,No
+11247,Sage,Martinez,2,1,Online,Full-Time,Active,No
+11248,Riley,Davis,1,3,Ogden,Full-Time,Graduated,No
+11249,Robert,Miller,6,4,Online,Full-Time,Graduated,No
+11250,Omar,Kim,2,3,Provo,Full-Time,Active,No
+11251,Sofia,Jones,2,5,Online,Full-Time,Leave of Absence,No
+11252,Jennifer,Martinez,1,1,Provo,Full-Time,Active,No
+11253,Jordan,Martinez,2,9,Salt Lake City,Part-Time,Active,No
+11254,Yuki,Johnson,6,7,Provo,Full-Time,Active,No
+11255,William,Brown,1,8,Online,Full-Time,Active,No
+11256,Morgan,Silva,2,6,Salt Lake City,Full-Time,Active,No
+11257,Elizabeth,Nguyen,4,6,St. George,Part-Time,Graduated,No
+11258,Morgan,Jones,1,7,St. George,Full-Time,Active,Yes
+11259,Taylor,Patel,1,8,St. George,Part-Time,Withdrawn,No
+11260,Casey,Johnson,2,4,Provo,Full-Time,Active,No
+11261,Yuki,Lopez,4,9,Online,Full-Time,Leave of Absence,No
+11262,Jennifer,Ivanov,1,7,Salt Lake City,Full-Time,Active,No
+11263,Elizabeth,Johnson,3,3,Provo,Part-Time,Active,No
+11264,Riley,Anderson,2,9,St. George,Part-Time,Leave of Absence,No
+11265,Alex,Garcia,2,5,St. George,Full-Time,Active,No
+11266,Priya,Novak,1,9,St. George,Part-Time,Active,No
+11267,Riley,Davis,1,5,Salt Lake City,Full-Time,Graduated,No
+11268,Rowan,Choi,3,5,Salt Lake City,Full-Time,Withdrawn,No
+11269,James,Okafor,1,2,St. George,Part-Time,Active,No
+11270,Casey,Wilson,6,9,St. George,Part-Time,Active,No
+11271,Quinn,Novak,1,1,Ogden,Full-Time,Graduated,No
+11272,Priya,Gonzalez,1,2,Ogden,Full-Time,Graduated,No
+11273,Aisha,Ivanov,1,5,Online,Full-Time,Active,No
+11274,Yuki,Thomas,4,7,Salt Lake City,Part-Time,Active,No
+11275,Michael,Novak,1,3,Provo,Part-Time,Active,Yes
+11276,Avery,Williams,5,7,Provo,Full-Time,Graduated,No
+11277,Jennifer,Jones,2,7,Salt Lake City,Full-Time,Active,No
+11278,Aisha,Ferrara,1,1,Salt Lake City,Full-Time,Graduated,No
+11279,William,Smith,1,3,Salt Lake City,Full-Time,Withdrawn,No
+11280,Michael,Haddad,5,2,St. George,Part-Time,Active,No
+11281,Jordan,Patel,1,8,Ogden,Full-Time,Active,Yes
+11282,Yuki,Berg,1,5,Online,Full-Time,Active,Yes
+11283,James,Okafor,1,7,Ogden,Full-Time,Active,No
+11284,Morgan,Davis,3,2,Salt Lake City,Part-Time,Active,No
+11285,Sofia,Ferrara,3,2,Salt Lake City,Full-Time,Active,No
+11286,Riley,Silva,1,9,Online,Full-Time,Active,No
+11287,Morgan,Rodriguez,3,5,Online,Part-Time,Active,No
+11288,Omar,Ferrara,5,2,Provo,Full-Time,Graduated,No
+11289,Morgan,Kim,2,8,Online,Part-Time,Graduated,No
+11290,Linda,Lopez,1,3,Ogden,Part-Time,Active,No
+11291,Aisha,Hernandez,3,7,Provo,Full-Time,Graduated,No
+11292,David,Patel,2,9,Provo,Part-Time,Active,No
+11293,Quinn,Lopez,2,4,Salt Lake City,Full-Time,Graduated,No
+11294,Casey,Ferrara,1,9,Salt Lake City,Full-Time,Active,No
+11295,Casey,Berg,2,3,St. George,Part-Time,Active,No
+11296,Morgan,Rossi,5,1,Provo,Part-Time,Graduated,No
+11297,Priya,Brown,3,7,St. George,Full-Time,Active,No
+11298,James,Jones,3,3,Salt Lake City,Full-Time,Active,No
+11299,Casey,Novak,1,3,St. George,Part-Time,Active,No
+11300,Priya,Smith,4,8,Ogden,Full-Time,Graduated,No
+11301,Riley,Nguyen,5,1,Provo,Full-Time,Graduated,No
+11302,Nadia,Rodriguez,2,8,St. George,Part-Time,Graduated,No
+11303,Taylor,Nguyen,2,3,Online,Full-Time,Active,No
+11304,Riley,Berg,2,1,St. George,Full-Time,Active,No
+11305,Linda,Berg,2,6,Online,Full-Time,Graduated,No
+11306,Morgan,Williams,3,4,Ogden,Part-Time,Active,No
+11307,William,Smith,1,2,Ogden,Full-Time,Active,No
+11308,Taylor,Kim,3,1,St. George,Full-Time,Active,No
+11309,Taylor,Martinez,5,1,Salt Lake City,Part-Time,Active,No
+11310,Fatima,Gonzalez,6,9,Ogden,Full-Time,Active,No
+11311,Jennifer,Brown,1,7,St. George,Full-Time,Withdrawn,No
+11312,Casey,Silva,2,1,Online,Full-Time,Active,No
+11313,Luis,Silva,1,4,Provo,Full-Time,Withdrawn,No
+11314,Maria,Anderson,2,9,Provo,Part-Time,Withdrawn,No
+11315,Priya,Haddad,3,7,Online,Full-Time,Active,No
+11316,Elizabeth,Okafor,3,2,Online,Full-Time,Withdrawn,No
+11317,Luis,Ivanov,1,5,Salt Lake City,Part-Time,Active,No
+11318,Rowan,Kim,1,5,Ogden,Part-Time,Active,Yes
+11319,Michael,Rodriguez,4,8,Online,Full-Time,Active,No
+11320,Omar,Martinez,6,8,Online,Part-Time,Active,No
+11321,Jennifer,Choi,5,3,St. George,Part-Time,Active,No
+11322,Yuki,Diallo,3,9,Salt Lake City,Full-Time,Active,No
+11323,Omar,Brown,1,9,Ogden,Part-Time,Active,No
+11324,Omar,Anderson,2,2,Salt Lake City,Part-Time,Active,No
+11325,Riley,Novak,3,8,Salt Lake City,Part-Time,Active,No
+11326,Maria,Chen,1,6,Online,Full-Time,Active,No
+11327,David,Jones,2,5,Online,Full-Time,Active,No
+11328,Fatima,Gonzalez,1,1,Salt Lake City,Part-Time,Leave of Absence,No
+11329,Omar,Smith,6,4,Online,Part-Time,Active,No
+11330,Linda,Williams,1,3,Ogden,Part-Time,Active,No
+11331,Jordan,Williams,2,5,Online,Part-Time,Active,No
+11332,Robert,Thomas,1,4,Online,Full-Time,Active,No
+11333,David,Ivanov,2,7,St. George,Full-Time,Graduated,Yes
+11334,Yuki,Anderson,1,6,Provo,Part-Time,Active,No
+11335,Kenji,Smith,1,7,Online,Full-Time,Active,No
+11336,Kenji,Miller,3,2,Online,Full-Time,Active,No
+11337,Diego,Kim,1,4,Salt Lake City,Part-Time,Withdrawn,No
+11338,Omar,Brown,1,5,Online,Part-Time,Active,No
+11339,Fatima,Hernandez,2,9,Salt Lake City,Full-Time,Active,No
+11340,David,Wilson,2,9,Online,Part-Time,Graduated,No
+11341,Priya,Chen,3,7,Salt Lake City,Full-Time,Graduated,No
+11342,Robert,Brown,1,1,Online,Full-Time,Graduated,No
+11343,Omar,Wilson,2,1,Provo,Full-Time,Graduated,No
+11344,Michael,Brown,3,2,Ogden,Part-Time,Active,No
+11345,James,Ivanov,5,7,Provo,Part-Time,Active,No
+11346,Luis,Ferrara,3,5,Online,Full-Time,Withdrawn,No
+11347,James,Berg,1,1,St. George,Part-Time,Active,No
+11348,Linda,Miller,6,7,St. George,Part-Time,Active,No
+11349,Aisha,Gonzalez,5,7,Provo,Part-Time,Active,No
+11350,Priya,Ivanov,2,7,Provo,Full-Time,Active,No
+11351,Riley,Hernandez,5,5,Provo,Full-Time,Withdrawn,No
+11352,Priya,Patel,1,3,Salt Lake City,Part-Time,Active,Yes
+11353,Aisha,Diallo,6,6,Provo,Part-Time,Active,No
+11354,Diego,Johnson,5,7,Ogden,Full-Time,Graduated,No
+11355,Sofia,Chen,3,2,Salt Lake City,Full-Time,Active,No
+11356,Michael,Choi,1,3,Ogden,Full-Time,Active,No
+11357,Michael,Okafor,2,1,Salt Lake City,Full-Time,Active,No
+11358,Patricia,Ivanov,2,6,Provo,Full-Time,Graduated,No
+11359,Maria,Lopez,5,1,Online,Full-Time,Active,No
+11360,Alex,Patel,4,2,Salt Lake City,Full-Time,Active,No
+11361,Casey,Davis,2,4,Salt Lake City,Full-Time,Active,No
+11362,David,Okafor,2,2,Ogden,Part-Time,Active,No
+11363,Sofia,Miller,2,9,Ogden,Full-Time,Withdrawn,No
+11364,Morgan,Kim,5,5,St. George,Part-Time,Leave of Absence,No
+11365,Patricia,Wilson,1,8,St. George,Part-Time,Active,No
+11366,Elizabeth,Lopez,3,7,Ogden,Full-Time,Active,No
+11367,Robert,Martinez,5,9,St. George,Part-Time,Active,No
+11368,Riley,Lopez,1,6,Provo,Full-Time,Active,No
+11369,Morgan,Smith,2,3,Ogden,Full-Time,Graduated,No
+11370,David,Williams,1,6,Online,Part-Time,Withdrawn,No
+11371,Priya,Chen,2,2,Salt Lake City,Part-Time,Graduated,No
+11372,Jordan,Ivanov,2,6,Online,Part-Time,Active,No
+11373,William,Hernandez,2,2,St. George,Part-Time,Active,No
+11374,Omar,Kim,1,1,Salt Lake City,Part-Time,Graduated,No
+11375,David,Ferrara,5,7,St. George,Full-Time,Active,No
+11376,Luis,Wilson,1,8,Ogden,Part-Time,Active,No
+11377,Maria,Thomas,1,2,St. George,Full-Time,Graduated,No
+11378,Aisha,Ferrara,3,8,Salt Lake City,Part-Time,Active,No
+11379,Alex,Jones,1,4,Salt Lake City,Part-Time,Active,No
+11380,Avery,Novak,4,4,Ogden,Full-Time,Active,No
+11381,Jordan,Brown,5,5,Salt Lake City,Part-Time,Withdrawn,No
+11382,Riley,Ferrara,3,7,Provo,Part-Time,Active,No
+11383,Diego,Brown,5,7,St. George,Full-Time,Graduated,No
+11384,Kenji,Thomas,3,5,Provo,Full-Time,Active,No
+11385,Nadia,Choi,1,2,Provo,Full-Time,Active,No
+11386,Alex,Silva,1,8,Provo,Part-Time,Active,No
+11387,Nadia,Kim,1,2,St. George,Part-Time,Active,No
+11388,Omar,Nguyen,1,8,Salt Lake City,Full-Time,Graduated,No
+11389,Jennifer,Miller,2,8,Online,Full-Time,Withdrawn,No
+11390,Elizabeth,Okafor,1,5,Salt Lake City,Full-Time,Withdrawn,No
+11391,Yuki,Anderson,1,2,Provo,Part-Time,Active,No
+11392,Taylor,Lopez,2,2,Online,Full-Time,Withdrawn,No
+11393,Patricia,Rodriguez,2,9,Ogden,Full-Time,Active,No
+11394,Avery,Gonzalez,4,7,Provo,Part-Time,Active,No
+11395,Jordan,Okafor,2,7,Provo,Full-Time,Active,No
+11396,Quinn,Williams,1,1,St. George,Full-Time,Graduated,No
+11397,Morgan,Davis,5,7,Ogden,Part-Time,Active,No
+11398,Priya,Chen,5,6,Ogden,Full-Time,Graduated,No
+11399,Diego,Williams,4,4,Provo,Full-Time,Active,No
+11400,Robert,Hernandez,2,1,Salt Lake City,Full-Time,Graduated,No

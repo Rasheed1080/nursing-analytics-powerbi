@@ -1,0 +1,7 @@
+program_key,program_code,program_name,program_type,program_length_months
+1,BSN,Bachelor of Science in Nursing,Pre-Licensure,36
+2,ADN,Associate Degree in Nursing,Pre-Licensure,24
+3,MSN-FNP,MSN Family Nurse Practitioner,Graduate,30
+4,MSN-PMHNP,MSN Psychiatric Mental Health NP,Graduate,30
+5,RN-BSN,RN to BSN Bridge,Post-Licensure,18
+6,DNP,Doctor of Nursing Practice,Graduate,36
